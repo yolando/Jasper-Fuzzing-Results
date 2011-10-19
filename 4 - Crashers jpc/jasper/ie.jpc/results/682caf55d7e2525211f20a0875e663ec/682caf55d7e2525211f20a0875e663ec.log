@@ -1,0 +1,8 @@
+Getting STDERR for 682caf55d7e2525211f20a0875e663ec
+Valgrind for 682caf55d7e2525211f20a0875e663ec
+Minimizing from /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.502375
+bitwise_hd=3
+bytewise_hd=3
+seen at seed=502375 range=0.0157041:0.0254098 file=/home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.502375 file_md5=b045967c57790b26091b78e360ef16d1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc | zzuf -s502375 -r0.0157041:0.0254098 > /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.502375
+EIP=0xb7eb8c21

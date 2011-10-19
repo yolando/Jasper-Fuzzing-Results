@@ -1,0 +1,94 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.321817 -> /mnt/hgfs/fuzz/seeds/ie.jpc
+	confidence level: 0.99900
+	starting Hamming Distance is 450
+Attempting to minimize crash(es) [11a73f054b6228fed98b3a9501d27b13]
+start=450 min=450 target_guess=1 curr=240 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=450 min=450 target_guess=1 curr=221 chance=0.50000 miss=1/10 total_misses=1/2 u_crashes=1
+start=450 min=450 target_guess=1 curr=247 chance=0.50000 miss=2/10 total_misses=2/3 u_crashes=2
+start=450 min=450 target_guess=1 curr=221 chance=0.50000 miss=3/10 total_misses=3/4 u_crashes=2
+start=450 min=450 target_guess=1 curr=219 chance=0.50000 miss=4/10 total_misses=4/5 u_crashes=3
+start=450 min=450 target_guess=1 curr=224 chance=0.50000 miss=5/10 total_misses=5/6 u_crashes=3
+start=450 min=450 target_guess=1 curr=199 chance=0.50000 miss=6/10 total_misses=6/7 u_crashes=3
+start=450 min=450 target_guess=1 curr=238 chance=0.50000 miss=7/10 total_misses=7/8 u_crashes=3
+start=450 min=450 target_guess=1 curr=218 chance=0.50000 miss=8/10 total_misses=8/9 u_crashes=4
+start=450 min=450 target_guess=1 curr=243 chance=0.50000 miss=9/10 total_misses=9/10 u_crashes=4
+start=450 min=450 target_guess=1 curr=224 chance=0.50000 miss=10/10 total_misses=10/11 u_crashes=5
+start=450 min=450 target_guess=2 curr=280 chance=0.33333 miss=0/12 total_misses=11/12 u_crashes=5
+start=450 min=280 target_guess=2 curr=196 chance=0.33214 miss=0/12 total_misses=11/13 u_crashes=6
+start=450 min=280 target_guess=2 curr=187 chance=0.33214 miss=1/12 total_misses=12/14 u_crashes=6
+start=450 min=280 target_guess=2 curr=184 chance=0.33214 miss=2/12 total_misses=13/15 u_crashes=7
+start=450 min=280 target_guess=2 curr=185 chance=0.33214 miss=3/12 total_misses=14/16 u_crashes=7
+start=450 min=185 target_guess=2 curr=106 chance=0.32973 miss=0/12 total_misses=14/17 u_crashes=7
+start=450 min=106 target_guess=2 curr=82 chance=0.33019 miss=0/12 total_misses=14/18 u_crashes=7
+start=450 min=82 target_guess=2 curr=62 chance=0.28049 miss=0/10 total_misses=14/19 u_crashes=7
+start=450 min=82 target_guess=2 curr=63 chance=0.28049 miss=1/10 total_misses=15/20 u_crashes=8
+start=450 min=82 target_guess=2 curr=60 chance=0.28049 miss=2/10 total_misses=16/21 u_crashes=8
+start=450 min=82 target_guess=2 curr=60 chance=0.28049 miss=3/10 total_misses=17/22 u_crashes=9
+start=450 min=82 target_guess=2 curr=59 chance=0.28049 miss=4/10 total_misses=18/23 u_crashes=9
+start=450 min=59 target_guess=2 curr=33 chance=0.32203 miss=0/12 total_misses=18/24 u_crashes=9
+start=450 min=59 target_guess=2 curr=40 chance=0.32203 miss=1/12 total_misses=19/25 u_crashes=9
+start=450 min=40 target_guess=2 curr=22 chance=0.32500 miss=0/12 total_misses=19/26 u_crashes=9
+start=450 min=22 target_guess=2 curr=13 chance=0.31818 miss=0/12 total_misses=19/27 u_crashes=9
+start=450 min=22 target_guess=2 curr=16 chance=0.31818 miss=1/12 total_misses=20/28 u_crashes=9
+start=450 min=22 target_guess=2 curr=16 chance=0.31818 miss=2/12 total_misses=21/29 u_crashes=9
+start=450 min=22 target_guess=2 curr=11 chance=0.31818 miss=3/12 total_misses=22/30 u_crashes=10
+start=450 min=22 target_guess=2 curr=13 chance=0.31818 miss=4/12 total_misses=23/31 u_crashes=10
+start=450 min=22 target_guess=2 curr=15 chance=0.31818 miss=5/12 total_misses=24/32 u_crashes=10
+start=450 min=22 target_guess=2 curr=15 chance=0.31818 miss=6/12 total_misses=25/33 u_crashes=10
+start=450 min=22 target_guess=2 curr=15 chance=0.31818 miss=7/12 total_misses=26/34 u_crashes=10
+start=450 min=22 target_guess=2 curr=15 chance=0.31818 miss=8/12 total_misses=27/35 u_crashes=10
+start=450 min=22 target_guess=2 curr=17 chance=0.31818 miss=9/12 total_misses=28/36 u_crashes=10
+start=450 min=22 target_guess=2 curr=19 chance=0.31818 miss=10/12 total_misses=29/37 u_crashes=10
+start=450 min=22 target_guess=2 curr=14 chance=0.31818 miss=11/12 total_misses=30/38 u_crashes=10
+start=450 min=22 target_guess=2 curr=12 chance=0.31818 miss=12/12 total_misses=31/39 u_crashes=10
+start=450 min=22 target_guess=3 curr=18 chance=0.22727 miss=0/12 total_misses=32/40 u_crashes=10
+start=450 min=22 target_guess=3 curr=16 chance=0.22727 miss=1/12 total_misses=33/41 u_crashes=10
+start=450 min=22 target_guess=3 curr=18 chance=0.22727 miss=2/12 total_misses=34/42 u_crashes=10
+start=450 min=18 target_guess=3 curr=15 chance=0.22222 miss=0/12 total_misses=34/43 u_crashes=10
+start=450 min=15 target_guess=3 curr=12 chance=0.26667 miss=0/16 total_misses=34/44 u_crashes=10
+start=450 min=12 target_guess=3 curr=7 chance=0.25000 miss=0/15 total_misses=34/45 u_crashes=10
+start=450 min=12 target_guess=3 curr=9 chance=0.25000 miss=1/15 total_misses=35/46 u_crashes=10
+start=450 min=12 target_guess=3 curr=7 chance=0.25000 miss=2/15 total_misses=36/47 u_crashes=10
+start=450 min=12 target_guess=3 curr=6 chance=0.25000 miss=3/15 total_misses=37/48 u_crashes=10
+start=450 min=12 target_guess=3 curr=10 chance=0.25000 miss=4/15 total_misses=38/49 u_crashes=10
+start=450 min=12 target_guess=3 curr=10 chance=0.25000 miss=5/15 total_misses=39/50 u_crashes=10
+start=450 min=12 target_guess=3 curr=8 chance=0.25000 miss=6/15 total_misses=40/51 u_crashes=10
+start=450 min=12 target_guess=3 curr=10 chance=0.25000 miss=7/15 total_misses=41/52 u_crashes=10
+start=450 min=10 target_guess=3 curr=8 chance=0.20000 miss=0/11 total_misses=41/53 u_crashes=10
+start=450 min=10 target_guess=3 curr=7 chance=0.20000 miss=1/11 total_misses=42/54 u_crashes=10
+start=450 min=7 target_guess=3 curr=3 chance=0.28571 miss=0/21 total_misses=42/55 u_crashes=10
+start=450 min=7 target_guess=3 curr=5 chance=0.28571 miss=1/21 total_misses=43/56 u_crashes=10
+start=450 min=7 target_guess=3 curr=4 chance=0.28571 miss=2/21 total_misses=44/57 u_crashes=10
+start=450 min=7 target_guess=3 curr=5 chance=0.28571 miss=3/21 total_misses=45/58 u_crashes=10
+start=450 min=7 target_guess=3 curr=3 chance=0.28571 miss=4/21 total_misses=46/59 u_crashes=10
+start=450 min=7 target_guess=3 curr=6 chance=0.28571 miss=5/21 total_misses=47/60 u_crashes=10
+start=450 min=6 target_guess=3 curr=4 chance=0.16667 miss=0/10 total_misses=47/61 u_crashes=10
+start=450 min=6 target_guess=3 curr=5 chance=0.16667 miss=1/10 total_misses=48/62 u_crashes=10
+start=450 min=5 target_guess=3 curr=3 chance=0.20000 miss=0/14 total_misses=48/63 u_crashes=10
+start=450 min=5 target_guess=3 curr=1 chance=0.20000 miss=1/14 total_misses=49/64 u_crashes=10
+start=450 min=5 target_guess=3 curr=4 chance=0.20000 miss=2/14 total_misses=50/65 u_crashes=10
+start=450 min=5 target_guess=3 curr=4 chance=0.20000 miss=3/14 total_misses=51/66 u_crashes=10
+start=450 min=4 target_guess=3 curr=2 chance=0.25000 miss=0/25 total_misses=51/67 u_crashes=10
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=1/25 total_misses=52/68 u_crashes=10
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=2/25 total_misses=53/69 u_crashes=10
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=3/25 total_misses=54/70 u_crashes=10
+start=450 min=4 target_guess=3 curr=2 chance=0.25000 miss=4/25 total_misses=55/71 u_crashes=10
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=5/25 total_misses=56/72 u_crashes=10
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=6/25 total_misses=57/73 u_crashes=10
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=7/25 total_misses=58/74 u_crashes=10
+start=450 min=4 target_guess=3 curr=2 chance=0.25000 miss=8/25 total_misses=59/75 u_crashes=10
+start=450 min=4 target_guess=3 curr=1 chance=0.25000 miss=9/25 total_misses=60/76 u_crashes=10
+We have tried all 4 files that are one byte close than the current minimum
+start=450 min=4 target_guess=3 curr=3 chance=0.25000 miss=10/25 total_misses=61/77 u_crashes=11
+We were looking for [11a73f054b6228fed98b3a9501d27b13] ...
+	...and found False	1 times
+	...and found 41cf109e356a8edfc62d19291dff6d54	6 times
+	...and found e6306ac1b6ead67839e7540d33bd3770	2 times
+	...and found 01d3078f1119a259b41a002bdfaf90b1	10 times
+	...and found e9a37d7a5acdaed752529df709ca4785	3 times
+	...and found d74d5c2d16cd93e3275a8c8f0814e7c8	1 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	11 times
+	...and found 11a73f054b6228fed98b3a9501d27b13	15 times
+	...and found 391994a77af23982aa804e48326affb4	6 times
+	...and found f7aff93d785c0e78c9de9755d5296eca	8 times
+	...and found 307f9bea6adbdafe59015e6475479eb0	8 times

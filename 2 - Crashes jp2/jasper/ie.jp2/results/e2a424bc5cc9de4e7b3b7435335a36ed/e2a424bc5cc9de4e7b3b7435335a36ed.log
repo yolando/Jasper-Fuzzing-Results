@@ -1,0 +1,17 @@
+Getting STDERR for e2a424bc5cc9de4e7b3b7435335a36ed
+Valgrind for e2a424bc5cc9de4e7b3b7435335a36ed
+Minimizing from /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.100873
+bitwise_hd=2
+bytewise_hd=2
+seen at seed=100873 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.100873 file_md5=32854dd6016743f93c04e072c4b4976f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s100873 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.100873
+EIP=0xb7fe2424
+seen at seed=141216 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.141216 file_md5=ad754407de6d64df7c2658ea4907a87e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s141216 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.141216
+EIP=0xb7fe2424
+seen at seed=185520 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.185520 file_md5=4a3203a251c2c18becad32084d2c4260
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s185520 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.185520
+EIP=0xb7fe2424
+seen at seed=469468 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.469468 file_md5=e217d0ba651bd7218edc53525e883ed3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s469468 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.469468
+EIP=0xb7fe2424

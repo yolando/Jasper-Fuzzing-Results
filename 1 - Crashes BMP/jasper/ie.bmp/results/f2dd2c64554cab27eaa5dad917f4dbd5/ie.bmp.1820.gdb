@@ -1,0 +1,169 @@
+
+Program received signal SIGSEGV, Segmentation fault.
+0x080863f0 in jas_matrix_create (numrows=1, numcols=1073741856)
+    at jas_seq.c:137
+	in jas_seq.c
+#0  0x080863f0 in jas_matrix_create (numrows=1, numcols=1073741856)
+    at jas_seq.c:137
+        matrix = 0x80b62e8
+        i = 20278
+#1  0x0805970f in bmp_getdata (in=0x80ab308, info=0x80af428, image=0x80af460)
+    at bmp_dec.c:340
+        i = 0
+        j = -1208434700
+        y = 32
+        cmpts = {0x0, 0x0, 0x0}
+        numpad = 134935592
+        red = -1073743020
+        grn = 134918920
+        blu = 5760
+        ret = 0
+        numcmpts = 3
+        cmptno = -1073743036
+        ind = -1208433312
+        palent = 0x8
+        mxind = 0
+        haspal = 0
+        __PRETTY_FUNCTION__ = "bmp_getdata"
+#2  0x08058eed in bmp_decode (in=0x80ab308, optstr=0x0) at bmp_dec.c:190
+        image = 0x80af460
+        hdr = {magic = 19778, siz = 3126, reserved1 = 0, reserved2 = 0, 
+          off = 54}
+        info = 0x80af428
+        cmptno = 3
+        cmptparms = {{tlx = 0, tly = 0, hstep = 1, vstep = 1, 
+            width = 1073741856, height = 32, prec = 8, sgnd = 0}, {tlx = 0, 
+            tly = 0, hstep = 1, vstep = 1, width = 1073741856, height = 32, 
+            prec = 8, sgnd = 0}, {tlx = 0, tly = 0, hstep = 1, vstep = 1, 
+            width = 1073741856, height = 32, prec = 8, sgnd = 0}}
+        cmptparm = 0xbffffb44
+        numcmpts = 3
+        n = 0
+#3  0x0804ad04 in jas_image_decode (in=0x80ab308, fmt=2, optstr=0x0)
+    at jas_image.c:372
+        fmtinfo = 0x80a2570
+        image = 0x0
+#4  0x08049a8c in main (argc=7, argv=0xbffffcd4) at jasper.c:229
+        image = 0xb7f8bff4
+        cmdopts = 0x80a92d0
+        in = 0x80ab308
+        out = 0x80ad390
+        dectmr = {start = {tv_sec = 1317679228, tv_usec = 534889}, stop = {
+            tv_sec = -1208434700, tv_usec = 7}}
+        enctmr = {start = {tv_sec = -1207961352, tv_usec = -1208434700}, 
+          stop = {tv_sec = -1208695383, tv_usec = -1209564251}}
+        dectime = 6.152783780600825e-270
+        enctime = -4.5458254427160528e-39
+        numcmpts = 134517192
+        i = -1209563739
+Dump of assembler code from 0x80863d0 to 0x8086410:
+0x080863d0 <jas_matrix_create+310>:	decl   0x453bf445(%ebx)
+0x080863d6 <jas_matrix_create+316>:	or     %bh,-0x39(%ecx,%eax,8)
+0x080863da <jas_matrix_create+320>:	inc    %ebp
+0x080863db <jas_matrix_create+321>:	hlt    
+0x080863dc <jas_matrix_create+322>:	add    %al,(%eax)
+0x080863de <jas_matrix_create+324>:	add    %al,(%eax)
+0x080863e0 <jas_matrix_create+326>:	jmp    0x8086401 <jas_matrix_create+359>
+0x080863e2 <jas_matrix_create+328>:	mov    -0x10(%ebp),%eax
+0x080863e5 <jas_matrix_create+331>:	mov    0x24(%eax),%eax
+0x080863e8 <jas_matrix_create+334>:	mov    -0xc(%ebp),%edx
+0x080863eb <jas_matrix_create+337>:	shl    $0x2,%edx
+0x080863ee <jas_matrix_create+340>:	add    %edx,%eax
+0x080863f0 <jas_matrix_create+342>:	movl   $0x0,(%eax)
+0x080863f6 <jas_matrix_create+348>:	addl   $0x1,-0xc(%ebp)
+0x080863fa <jas_matrix_create+352>:	jno    0x8086401 <jas_matrix_create+359>
+0x080863fc <jas_matrix_create+354>:	call   0x804931c <constraint_handler_wrapper_sadd@plt>
+0x08086401 <jas_matrix_create+359>:	mov    -0x10(%ebp),%eax
+0x08086404 <jas_matrix_create+362>:	mov    0x28(%eax),%eax
+0x08086407 <jas_matrix_create+365>:	cmp    -0xc(%ebp),%eax
+0x0808640a <jas_matrix_create+368>:	jg     0x80863e2 <jas_matrix_create+328>
+0x0808640c <jas_matrix_create+370>:	mov    -0x10(%ebp),%eax
+0x0808640f <jas_matrix_create+373>:	movl   $0x0,0x4(%eax)
+End of assembler dump.
+eax            0x80ca000	135045120
+ecx            0x80b6328	134964008
+edx            0x13cd8	81112
+ebx            0xb7f8bff4	-1208434700
+esp            0xbffffa20	0xbffffa20
+ebp            0xbffffa48	0xbffffa48
+esi            0x0	0
+edi            0x0	0
+eip            0x80863f0	0x80863f0 <jas_matrix_create+342>
+eflags         0x10216	[ PF AF IF RF ]
+cs             0x73	115
+ss             0x7b	123
+ds             0x7b	123
+es             0x7b	123
+fs             0x0	0
+gs             0x33	51
+st0            0	(raw 0x00000000000000000000)
+st1            0	(raw 0x00000000000000000000)
+st2            0	(raw 0x00000000000000000000)
+st3            0	(raw 0x00000000000000000000)
+st4            0	(raw 0x00000000000000000000)
+st5            0	(raw 0x00000000000000000000)
+st6            0	(raw 0x00000000000000000000)
+st7            0	(raw 0x00000000000000000000)
+fctrl          0x37f	895
+fstat          0x0	0
+ftag           0xffff	65535
+fiseg          0x0	0
+fioff          0x0	0
+foseg          0x0	0
+fooff          0x0	0
+fop            0x0	0
+xmm0           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0, 0x0, 0x0, 0xff, 0x0, 0x0, 0xff, 0x0, 0x0, 0x0, 0xff, 0x0, 
+    0x0, 0x0, 0x0, 0x0}, v8_int16 = {0x0, 0xff00, 0x0, 0xff, 0x0, 0xff, 0x0, 
+    0x0}, v4_int32 = {0xff000000, 0xff0000, 0xff0000, 0x0}, v2_int64 = {
+    0xff0000ff000000, 0xff0000}, uint128 = 0x0000000000ff000000ff0000ff000000}
+xmm1           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm2           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm3           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm4           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm5           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm6           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm7           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+mxcsr          0x1f80	[ IM DM ZM OM UM PM ]
+mm0            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm1            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm2            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm3            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm4            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm5            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm6            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm7            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+A debugging session is active.
+
+	Inferior 1 [process 3486] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]

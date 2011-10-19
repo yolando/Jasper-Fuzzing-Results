@@ -1,0 +1,20 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.6780 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 55
+Attempting to minimize crash(es) [ddc90e873ada28cfe143277216cb1709]
+start=55 min=55 target_guess=1 curr=21 chance=0.50909 miss=0/11 total_misses=0/1 u_crashes=0
+start=55 min=55 target_guess=1 curr=30 chance=0.50909 miss=1/11 total_misses=1/2 u_crashes=1
+start=55 min=30 target_guess=1 curr=19 chance=0.50000 miss=0/10 total_misses=1/3 u_crashes=2
+start=55 min=19 target_guess=1 curr=11 chance=0.52632 miss=0/11 total_misses=1/4 u_crashes=2
+start=55 min=11 target_guess=1 curr=5 chance=0.45455 miss=0/9 total_misses=1/5 u_crashes=2
+start=55 min=5 target_guess=1 curr=1 chance=0.60000 miss=0/14 total_misses=1/6 u_crashes=2
+start=55 min=5 target_guess=1 curr=3 chance=0.60000 miss=1/14 total_misses=2/7 u_crashes=2
+start=55 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=2/8 u_crashes=2
+start=55 min=3 target_guess=1 curr=1 chance=0.66667 miss=1/18 total_misses=3/9 u_crashes=2
+start=55 min=3 target_guess=1 curr=1 chance=0.66667 miss=2/18 total_misses=4/10 u_crashes=2
+start=55 min=3 target_guess=1 curr=1 chance=0.66667 miss=3/18 total_misses=5/11 u_crashes=2
+start=55 min=3 target_guess=1 curr=1 chance=0.66667 miss=4/18 total_misses=6/12 u_crashes=2
+start=55 min=1 target_guess=1 curr=1 chance=0.66667 miss=4/18 total_misses=6/12 u_crashes=2
+We were looking for [ddc90e873ada28cfe143277216cb1709] ...
+	...and found False	4 times
+	...and found ddc90e873ada28cfe143277216cb1709	6 times

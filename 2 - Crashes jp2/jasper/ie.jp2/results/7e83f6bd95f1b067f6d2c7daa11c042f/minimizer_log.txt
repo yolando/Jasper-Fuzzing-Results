@@ -1,0 +1,24 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.6412 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 80
+Attempting to minimize crash(es) [7e83f6bd95f1b067f6d2c7daa11c042f]
+start=80 min=80 target_guess=1 curr=41 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=80 min=80 target_guess=1 curr=46 chance=0.50000 miss=1/10 total_misses=1/2 u_crashes=1
+start=80 min=80 target_guess=1 curr=45 chance=0.50000 miss=2/10 total_misses=2/3 u_crashes=1
+start=80 min=45 target_guess=1 curr=25 chance=0.48889 miss=0/10 total_misses=2/4 u_crashes=2
+start=80 min=25 target_guess=1 curr=14 chance=0.52000 miss=0/11 total_misses=2/5 u_crashes=2
+start=80 min=14 target_guess=1 curr=6 chance=0.50000 miss=0/10 total_misses=2/6 u_crashes=2
+start=80 min=14 target_guess=1 curr=8 chance=0.50000 miss=1/10 total_misses=3/7 u_crashes=2
+start=80 min=8 target_guess=1 curr=5 chance=0.50000 miss=0/10 total_misses=3/8 u_crashes=2
+start=80 min=5 target_guess=1 curr=3 chance=0.60000 miss=0/14 total_misses=3/9 u_crashes=2
+start=80 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=3/10 u_crashes=2
+start=80 min=3 target_guess=1 curr=2 chance=0.66667 miss=1/18 total_misses=4/11 u_crashes=3
+start=80 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=4/12 u_crashes=3
+start=80 min=2 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=5/13 u_crashes=3
+start=80 min=2 target_guess=1 curr=1 chance=0.50000 miss=2/10 total_misses=6/14 u_crashes=3
+start=80 min=2 target_guess=1 curr=1 chance=0.50000 miss=3/10 total_misses=7/15 u_crashes=3
+start=80 min=1 target_guess=1 curr=1 chance=0.50000 miss=3/10 total_misses=7/15 u_crashes=3
+We were looking for [7e83f6bd95f1b067f6d2c7daa11c042f] ...
+	...and found False	2 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	3 times
+	...and found 7e83f6bd95f1b067f6d2c7daa11c042f	8 times

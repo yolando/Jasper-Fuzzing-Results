@@ -1,0 +1,1259 @@
+Getting STDERR for 36e7a5cc0ad6792b6a4055a0c4547c37
+Valgrind for 36e7a5cc0ad6792b6a4055a0c4547c37
+Minimizing from /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.4952
+bitwise_hd=1
+bytewise_hd=1
+seen at seed=4952 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.4952 file_md5=7dcf3fc1a7033bbf1db0d393eef76f0b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s4952 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.4952
+EIP=0x807a1b0
+seen at seed=9745 range=0.000323551:0.000523516 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.9745 file_md5=0a6c310ff22aa24e0a0fb5db951ef7bf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s9745 -r0.000323551:0.000523516 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.9745
+EIP=0x807a1b0
+seen at seed=14469 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.14469 file_md5=09ba5166f2a608bd31d47d0511756e90
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s14469 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.14469
+EIP=0x807a1b0
+seen at seed=20241 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.20241 file_md5=56fb41df455f58f2779f9da02e7a5678
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s20241 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.20241
+EIP=0x807a1b0
+seen at seed=20704 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.20704 file_md5=3ac080d20782d3d722f1b9cb48c5d7af
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s20704 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.20704
+EIP=0x807a1b0
+seen at seed=21539 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.21539 file_md5=4420245254cc3c6bbb83f1e1beb5590c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s21539 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.21539
+EIP=0x807a1b0
+seen at seed=21969 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.21969 file_md5=50f3bef41061e84707abd25b6758ff2e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s21969 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.21969
+EIP=0x807a1b0
+seen at seed=23391 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.23391 file_md5=1131bd569b1e17bba8cdd4fab8189b08
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s23391 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.23391
+EIP=0x807a1b0
+seen at seed=24421 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.24421 file_md5=ac5c4845a43b3bd790e31ba4b389c233
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s24421 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.24421
+EIP=0x807a1b0
+seen at seed=25495 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.25495 file_md5=e82bb6ea5a87f7b3937ef9c05814c465
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s25495 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.25495
+EIP=0x807a1b0
+seen at seed=26441 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.26441 file_md5=312a6d3a3d10cfa51708c0ae393be739
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s26441 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.26441
+EIP=0x807a1b0
+seen at seed=30077 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.30077 file_md5=1227014880eef2d0eca200f14b575201
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s30077 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.30077
+EIP=0x807a1b0
+seen at seed=34158 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.34158 file_md5=95d35fb91ca12ae381e039126be6d817
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s34158 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.34158
+EIP=0x807a1b0
+seen at seed=36205 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.36205 file_md5=fce3771f26dda8c7003e336082e63b15
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s36205 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.36205
+EIP=0x807a1b0
+seen at seed=36333 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.36333 file_md5=c1716b9695c52bbcd0d6a9e5f03f0d8a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s36333 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.36333
+EIP=0x807a1b0
+seen at seed=36590 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.36590 file_md5=c45af27670af351d5f8bc6fc20fd77f9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s36590 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.36590
+EIP=0x807a1b0
+seen at seed=37226 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.37226 file_md5=be546da5eefc967b39ae087b95f1c209
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s37226 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.37226
+EIP=0x807a1b0
+seen at seed=38157 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.38157 file_md5=80667093a10889dc1c1e89536aaf54df
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s38157 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.38157
+EIP=0x807a1b0
+seen at seed=38313 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.38313 file_md5=73a3f173cc6ca23b5b4c33a4194823e6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s38313 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.38313
+EIP=0x807a1b0
+seen at seed=38429 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.38429 file_md5=1227014880eef2d0eca200f14b575201
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s38429 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.38429
+EIP=0x807a1b0
+seen at seed=39006 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.39006 file_md5=fb6d62aacefb66109d934a40463721c7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s39006 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.39006
+EIP=0x807a1b0
+seen at seed=40379 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.40379 file_md5=ebfa875e5db3211f38e293dca7c6ee9c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s40379 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.40379
+EIP=0x807a1b0
+seen at seed=45818 range=0.000123585:0.000199965 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.45818 file_md5=389408562b611b1af989aea0d92fdc3d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s45818 -r0.000123585:0.000199965 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.45818
+EIP=0x807a1b0
+seen at seed=47194 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.47194 file_md5=d17381ae4741f6f72582176263ffda0d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s47194 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.47194
+EIP=0x807a1b0
+seen at seed=48847 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.48847 file_md5=2bdbf71b9242b458224e7b13d78e8ae4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s48847 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.48847
+EIP=0x807a1b0
+seen at seed=50128 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.50128 file_md5=51f60d3e403deaa185c660bd8bfc31eb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s50128 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.50128
+EIP=0x807a1b0
+seen at seed=59391 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.59391 file_md5=ab9f786fcd7fdb78186d0690da3f7764
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s59391 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.59391
+EIP=0x807a1b0
+seen at seed=60131 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.60131 file_md5=ce9e9bd69cd1e1bf9754970bb7484b27
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s60131 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.60131
+EIP=0x807a1b0
+seen at seed=66503 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.66503 file_md5=b6e5fd23ffbc7a6b3765becd32b53619
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s66503 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.66503
+EIP=0x807a1b0
+seen at seed=67730 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.67730 file_md5=94d573eb6bdbbcb13a44be443df5a6e1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s67730 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.67730
+EIP=0x807a1b0
+seen at seed=67744 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.67744 file_md5=0f95559b2dd56ae8247489742139ca9d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s67744 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.67744
+EIP=0x807a1b0
+seen at seed=68059 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.68059 file_md5=ae1f9ea151dcad82bfb2de703a3a01b4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s68059 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.68059
+EIP=0x807a1b0
+seen at seed=74592 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.74592 file_md5=692110bb3c0b2095fce592f6d21c16de
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s74592 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.74592
+EIP=0x807a1b0
+seen at seed=76501 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.76501 file_md5=91a39e35884f4d06498bddb7a871d7ea
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s76501 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.76501
+EIP=0x807a1b0
+seen at seed=76838 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.76838 file_md5=53858e5f0af2371ebfed1938d7825c44
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s76838 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.76838
+EIP=0x807a1b0
+seen at seed=77290 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.77290 file_md5=d89c144a151a6dfaa83788e50543566f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s77290 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.77290
+EIP=0x807a1b0
+seen at seed=79384 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.79384 file_md5=d48134800bde2afcb8ddb0697f74367b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s79384 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.79384
+EIP=0x807a1b0
+seen at seed=80903 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.80903 file_md5=ae1f9ea151dcad82bfb2de703a3a01b4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s80903 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.80903
+EIP=0x807a1b0
+seen at seed=82223 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.82223 file_md5=6012b9b66ed507f9f9c15354e17eb6c9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s82223 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.82223
+EIP=0x807a1b0
+seen at seed=82392 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.82392 file_md5=0aea36c368de25aee24cf16207866991
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s82392 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.82392
+EIP=0x807a1b0
+seen at seed=83828 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.83828 file_md5=2c726c5f81c678e0f3e26c1b7bc87dab
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s83828 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.83828
+EIP=0x807a1b0
+seen at seed=85535 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.85535 file_md5=0f131ec60e5b78e9ea55e256e44c550b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s85535 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.85535
+EIP=0x807a1b0
+seen at seed=86005 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.86005 file_md5=bc0145217d5e71ce14643515867a1366
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s86005 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.86005
+EIP=0x807a1b0
+seen at seed=86173 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.86173 file_md5=2d751e046ea8f6d058f6b71c216fc866
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s86173 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.86173
+EIP=0x807a1b0
+seen at seed=86970 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.86970 file_md5=2a13d42e89c6f30ba1a993b606319ab6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s86970 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.86970
+EIP=0x807a1b0
+seen at seed=89042 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.89042 file_md5=059f246128e28120cd9951b344ca8ff2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s89042 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.89042
+EIP=0x807a1b0
+seen at seed=90662 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.90662 file_md5=608016990b5f503b8498244dd267d5a1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s90662 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.90662
+EIP=0x807a1b0
+seen at seed=90993 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.90993 file_md5=3c4db2c5dc0392c3fe13c1bf417560b5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s90993 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.90993
+EIP=0x807a1b0
+seen at seed=94046 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.94046 file_md5=b0c0c75b41939dca853c6cd8c84a9498
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s94046 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.94046
+EIP=0x807a1b0
+seen at seed=95653 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.95653 file_md5=0a254c27254de0fc5286b8b1c71af828
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s95653 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.95653
+EIP=0x807a1b0
+seen at seed=99248 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.99248 file_md5=7fe2b0af9da3d74d9aba7e358b49ac34
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s99248 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.99248
+EIP=0x807a1b0
+seen at seed=100141 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.100141 file_md5=732fa7d0a501cb22a3a7f64182cd024a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s100141 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.100141
+EIP=0x807a1b0
+seen at seed=101839 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.101839 file_md5=418bc7b10621cec3afe51f510852c1e3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s101839 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.101839
+EIP=0x807a1b0
+seen at seed=107023 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.107023 file_md5=b9260e0d57c3263cf8d5deb3cdc96237
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s107023 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.107023
+EIP=0x807a1b0
+seen at seed=109400 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.109400 file_md5=41f27da29ef57756ff718d37795f8589
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s109400 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.109400
+EIP=0x807a1b0
+seen at seed=109548 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.109548 file_md5=27c9648466848748cc0d940593b103bd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s109548 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.109548
+EIP=0x807a1b0
+seen at seed=109718 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.109718 file_md5=17a82f976b49b6e52d781357e43980e6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s109718 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.109718
+EIP=0x807a1b0
+seen at seed=113712 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.113712 file_md5=1188f7329083e1e181e2c4f94ffc8f79
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s113712 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.113712
+EIP=0x807a1b0
+seen at seed=116062 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.116062 file_md5=d720a96723d912bc01de367a0e59dffe
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s116062 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.116062
+EIP=0x807a1b0
+seen at seed=116678 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.116678 file_md5=a761c89dd2c280c130b03cd7fdaf21f0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s116678 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.116678
+EIP=0x807a1b0
+seen at seed=117686 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.117686 file_md5=29893df3c0e018d574fcec5033008851
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s117686 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.117686
+EIP=0x807a1b0
+seen at seed=118683 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.118683 file_md5=718335155d7bea16f853aad7c789a111
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s118683 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.118683
+EIP=0x807a1b0
+seen at seed=120011 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.120011 file_md5=2ece27d111c79a3522361a8810ed9396
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s120011 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.120011
+EIP=0x807a1b0
+seen at seed=120546 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.120546 file_md5=8ae8afc754ef67c04d804b72d02926e3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s120546 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.120546
+EIP=0x807a1b0
+seen at seed=121899 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.121899 file_md5=aebec7ff764f16c20f2a36e57d7e47eb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s121899 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.121899
+EIP=0x807a1b0
+seen at seed=122065 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.122065 file_md5=57a61997c72dafea73e362a29b5dc8ec
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s122065 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.122065
+EIP=0x807a1b0
+seen at seed=122596 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.122596 file_md5=6a81eb64e6be0af256171f176290ff9f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s122596 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.122596
+EIP=0x807a1b0
+seen at seed=123201 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.123201 file_md5=7e543f1cfbf89a9f0fc60cec815efb7c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s123201 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.123201
+EIP=0x807a1b0
+seen at seed=123702 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.123702 file_md5=2645025467dc5d99c911404fc1ee62e6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s123702 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.123702
+EIP=0x807a1b0
+seen at seed=125358 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.125358 file_md5=ee2388d6cd95568489cf6994737dfb15
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s125358 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.125358
+EIP=0x807a1b0
+seen at seed=126869 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.126869 file_md5=8a3ef3e072e94464273277140a589d82
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s126869 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.126869
+EIP=0x807a1b0
+seen at seed=127202 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.127202 file_md5=82a5a6c31112887f4579b332b2c70858
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s127202 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.127202
+EIP=0x807a1b0
+seen at seed=128520 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.128520 file_md5=37b97f75f1bb5ade0a62b8bbe09aefdb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s128520 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.128520
+EIP=0x807a1b0
+seen at seed=131124 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.131124 file_md5=262de2cd6180bbb8817df4ee0deec93e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s131124 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.131124
+EIP=0x807a1b0
+seen at seed=131586 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.131586 file_md5=8a2f03d7acfe17ce4f89c547a2733874
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s131586 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.131586
+EIP=0x807a1b0
+seen at seed=134640 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.134640 file_md5=3f194f043c359ddb06eeff1aa4cc7793
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s134640 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.134640
+EIP=0x807a1b0
+seen at seed=134697 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.134697 file_md5=0f8cf5b52888aee86ad165807c7d4393
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s134697 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.134697
+EIP=0x807a1b0
+seen at seed=135797 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.135797 file_md5=d5579706933ef48d9e7fcff8fa4bf330
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s135797 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.135797
+EIP=0x807a1b0
+seen at seed=135944 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.135944 file_md5=9483872fe9122b646d92ee598b91397b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s135944 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.135944
+EIP=0x807a1b0
+seen at seed=137110 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.137110 file_md5=3f0387325e95f988ded21424d23f1a0e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s137110 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.137110
+EIP=0x807a1b0
+seen at seed=137809 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.137809 file_md5=12d84c44cf7dc5686bfa049bd683d486
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s137809 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.137809
+EIP=0x807a1b0
+seen at seed=139767 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.139767 file_md5=f516890afc31e59a36403da72c897a6d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s139767 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.139767
+EIP=0x807a1b0
+seen at seed=144984 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.144984 file_md5=20209eec7d1fe2ca9c58f8e43d4d284b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s144984 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.144984
+EIP=0x807a1b0
+seen at seed=145301 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.145301 file_md5=90aec216cc1f30dc7b01e5db07f9758e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s145301 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.145301
+EIP=0x807a1b0
+seen at seed=146183 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.146183 file_md5=721ea5f09efda654d2eff389d5964f6c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s146183 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.146183
+EIP=0x807a1b0
+seen at seed=146923 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.146923 file_md5=5f2778a7b7fe5850179818af3a480f38
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s146923 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.146923
+EIP=0x807a1b0
+seen at seed=147302 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.147302 file_md5=3eb1150bc3865c9a6fc173c0998c1f83
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s147302 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.147302
+EIP=0x807a1b0
+seen at seed=149564 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.149564 file_md5=13dc9d1d5fcd0ca489c669f8696443d6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s149564 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.149564
+EIP=0x807a1b0
+seen at seed=150067 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.150067 file_md5=8e9f136668a7bb985012f520dae871fb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s150067 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.150067
+EIP=0x807a1b0
+seen at seed=154289 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.154289 file_md5=685ff9c6e9b590b55377c0de6b4d81b6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s154289 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.154289
+EIP=0x807a1b0
+seen at seed=154785 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.154785 file_md5=9e9226cb55746da44496e4bdd1e40513
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s154785 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.154785
+EIP=0x807a1b0
+seen at seed=154790 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.154790 file_md5=f5b76c6f0e8d5278f335a0e49f14da90
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s154790 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.154790
+EIP=0x807a1b0
+seen at seed=155516 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.155516 file_md5=ecb2a53d7cc0edfa33fb04086b354df3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s155516 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.155516
+EIP=0x807a1b0
+seen at seed=157044 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.157044 file_md5=5dd914bf1f5789f00d2536f5b7c702cf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s157044 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.157044
+EIP=0x807a1b0
+seen at seed=158070 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.158070 file_md5=6b013284ee272b653bc3c14d81626856
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s158070 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.158070
+EIP=0x807a1b0
+seen at seed=159572 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.159572 file_md5=d11fcee492920c6109eccbb157258a14
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s159572 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.159572
+EIP=0x807a1b0
+seen at seed=163089 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.163089 file_md5=0fbf0308dc36255d490e709a3bdc5246
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s163089 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.163089
+EIP=0x807a1b0
+seen at seed=164129 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.164129 file_md5=7a2f35f98a305efd935f03da63405829
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s164129 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.164129
+EIP=0x807a1b0
+seen at seed=166174 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.166174 file_md5=138f7dde3cf10b3b31cb960f00abe9cc
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s166174 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.166174
+EIP=0x807a1b0
+seen at seed=169503 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.169503 file_md5=06682df7a23a6304be78fc82eed3e972
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s169503 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.169503
+EIP=0x807a1b0
+seen at seed=169530 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.169530 file_md5=65a9ad10c6593403344749efea29953e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s169530 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.169530
+EIP=0x807a1b0
+seen at seed=170542 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.170542 file_md5=d6406102c290c387f80d92b1a999378d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s170542 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.170542
+EIP=0x807a1b0
+seen at seed=171650 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.171650 file_md5=ad5888df39354475a4cdebe31c156031
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s171650 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.171650
+EIP=0x807a1b0
+seen at seed=173963 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.173963 file_md5=f38065ed0ccad084e8d7f139e20d4222
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s173963 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.173963
+EIP=0x807a1b0
+seen at seed=174275 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.174275 file_md5=cc396d82317d61dbbfbfa81422393137
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s174275 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.174275
+EIP=0x807a1b0
+seen at seed=179054 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.179054 file_md5=90603cb6d9b5a6985b53677a89dea452
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s179054 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.179054
+EIP=0x807a1b0
+seen at seed=180645 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.180645 file_md5=491251d5e711053c62aa9d569dc2de2a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s180645 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.180645
+EIP=0x807a1b0
+seen at seed=181427 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.181427 file_md5=f5b8f88ebc52901f2a1f5a4093667a58
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s181427 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.181427
+EIP=0x807a1b0
+seen at seed=182226 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.182226 file_md5=1608496bf60fe91ddf5d9dba434181eb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s182226 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.182226
+EIP=0x807a1b0
+seen at seed=182722 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.182722 file_md5=3c506fe604e4cfb3ae998959f5c124f8
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s182722 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.182722
+EIP=0x807a1b0
+seen at seed=183802 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.183802 file_md5=8e35b097c2138f1970e64c2e7e3feeab
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s183802 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.183802
+EIP=0x807a1b0
+seen at seed=184563 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.184563 file_md5=42f964c994cf57395e0a5686604744fa
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s184563 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.184563
+EIP=0x807a1b0
+seen at seed=190809 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.190809 file_md5=d9050cbd2c65d5ff45c5480bd42b2b64
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s190809 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.190809
+EIP=0x807a1b0
+seen at seed=191311 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.191311 file_md5=577afe369dd0c3c2d82ba90df01682b6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s191311 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.191311
+EIP=0x807a1b0
+seen at seed=192919 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.192919 file_md5=ad03bd887db75d8596042be953772bf2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s192919 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.192919
+EIP=0x807a1b0
+seen at seed=193886 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.193886 file_md5=3ac718e4e0cdf54ee8ee87201216f425
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s193886 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.193886
+EIP=0x807a1b0
+seen at seed=194070 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.194070 file_md5=fb4700a61cc20ea9351766b988320652
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s194070 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.194070
+EIP=0x807a1b0
+seen at seed=195213 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.195213 file_md5=30a83f610cfa9c60dda3a128dd89599a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s195213 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.195213
+EIP=0x807a1b0
+seen at seed=196293 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.196293 file_md5=9a8dbc17749d9b3d17c477cbdfa7eca2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s196293 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.196293
+EIP=0x807a1b0
+seen at seed=196480 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.196480 file_md5=a02293987038b3185bcaaad47a517caf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s196480 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.196480
+EIP=0x807a1b0
+seen at seed=199045 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.199045 file_md5=45739376eef31b51f8c1e2fe48e0e392
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s199045 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.199045
+EIP=0x807a1b0
+seen at seed=201196 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.201196 file_md5=1b0c01c0cb005214672bb484667b9088
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s201196 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.201196
+EIP=0x807a1b0
+seen at seed=201638 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.201638 file_md5=349bcdeebdecaeff283adcfa2d7e264b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s201638 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.201638
+EIP=0x807a1b0
+seen at seed=204450 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.204450 file_md5=d68cde24a025cd88a307fa75d34b70b6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s204450 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.204450
+EIP=0x807a1b0
+seen at seed=204512 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.204512 file_md5=52a83fdbe8d94b4ad4bab5f5dae6b6a1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s204512 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.204512
+EIP=0x807a1b0
+seen at seed=205342 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.205342 file_md5=28c1f7cb1630dac0f5bff07e87b30172
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s205342 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.205342
+EIP=0x807a1b0
+seen at seed=205628 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.205628 file_md5=60f1307f0ef2b564b2094f3613801c26
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s205628 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.205628
+EIP=0x807a1b0
+seen at seed=206420 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.206420 file_md5=6326164e0e4d4951518f514f464c4b5c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s206420 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.206420
+EIP=0x807a1b0
+seen at seed=209678 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.209678 file_md5=0bc21aa2e3fd30a50e4102c6bc41394e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s209678 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.209678
+EIP=0x807a1b0
+seen at seed=211088 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.211088 file_md5=206acf2309117d9d87062a2baa6be0d7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s211088 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.211088
+EIP=0x807a1b0
+seen at seed=211996 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.211996 file_md5=6694e03002ccc13bb91014d8b91e0764
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s211996 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.211996
+EIP=0x807a1b0
+seen at seed=216860 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.216860 file_md5=5563e50d61d9f8b59686e5c8b6e5e361
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s216860 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.216860
+EIP=0x807a1b0
+seen at seed=219188 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.219188 file_md5=d8cae7f82411d6f2bdb43cbb559ddc7c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s219188 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.219188
+EIP=0x807a1b0
+seen at seed=219526 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.219526 file_md5=e17b2840ae449073e47edee9d00c3e88
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s219526 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.219526
+EIP=0x807a1b0
+seen at seed=221250 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.221250 file_md5=d4ec1e2eff11bea8e4c9b3a6743919d0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s221250 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.221250
+EIP=0x807a1b0
+seen at seed=221552 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.221552 file_md5=8318568f990c517b646a0bfe985faeed
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s221552 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.221552
+EIP=0x807a1b0
+seen at seed=224029 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.224029 file_md5=c8bda584a93835ed7ddbae4b850ae6a0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s224029 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.224029
+EIP=0x807a1b0
+seen at seed=226935 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.226935 file_md5=02c1c0836b067a4d7004fd381690d1d4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s226935 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.226935
+EIP=0x807a1b0
+seen at seed=226995 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.226995 file_md5=17c3c490de466bc2adce574279ae8894
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s226995 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.226995
+EIP=0x807a1b0
+seen at seed=227684 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.227684 file_md5=4b4ebb9e5d5c7fecaf588e4bd1f51699
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s227684 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.227684
+EIP=0x807a1b0
+seen at seed=228304 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.228304 file_md5=e02f7cb3aedf84c9fd598cfd3e61322b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s228304 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.228304
+EIP=0x807a1b0
+seen at seed=228361 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.228361 file_md5=3c52aff9e00a61030cbb22a36dade26a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s228361 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.228361
+EIP=0x807a1b0
+seen at seed=229831 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.229831 file_md5=05d5b6e605653a32068199d34d0bdcc4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s229831 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.229831
+EIP=0x807a1b0
+seen at seed=231122 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.231122 file_md5=d2fbcea83ed4719ca7af7bb0d2a3cf64
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s231122 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.231122
+EIP=0x807a1b0
+seen at seed=232468 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.232468 file_md5=d11fcee492920c6109eccbb157258a14
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s232468 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.232468
+EIP=0x807a1b0
+seen at seed=238837 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.238837 file_md5=49976afe7688026e50972af95eaaf9f5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s238837 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.238837
+EIP=0x807a1b0
+seen at seed=238951 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.238951 file_md5=c1ed5b18b286cbc6a6af8fb43fcac844
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s238951 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.238951
+EIP=0x807a1b0
+seen at seed=239077 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.239077 file_md5=1bd4a3d0d557309f5bd9f04c4926c86b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s239077 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.239077
+EIP=0x807a1b0
+seen at seed=239723 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.239723 file_md5=a5e583f6fc3b1fda1566a5af4035aed0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s239723 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.239723
+EIP=0x807a1b0
+seen at seed=241182 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.241182 file_md5=392fe7efbda4e5ad13c67cd2a39b5901
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s241182 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.241182
+EIP=0x807a1b0
+seen at seed=241502 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.241502 file_md5=2d37cd744bb2a61e781a2e806c3bdb9a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s241502 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.241502
+EIP=0x807a1b0
+seen at seed=243253 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.243253 file_md5=d48bd51569135e8972049a8a68a83762
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s243253 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.243253
+EIP=0x807a1b0
+seen at seed=245300 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.245300 file_md5=161d28582c8737022c20d229a9d0fdaa
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s245300 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.245300
+EIP=0x807a1b0
+seen at seed=245634 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.245634 file_md5=fa0eb4f6c17cfd4d0eef55ce00aab033
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s245634 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.245634
+EIP=0x807a1b0
+seen at seed=247752 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.247752 file_md5=c4668d72fad66c153897631bc8bd2eed
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s247752 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.247752
+EIP=0x807a1b0
+seen at seed=248489 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.248489 file_md5=dbc71e51a99eb4b933be47f16f227c29
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s248489 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.248489
+EIP=0x807a1b0
+seen at seed=250155 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.250155 file_md5=0b66aa873dfbc66056174f8b223cf370
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s250155 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.250155
+EIP=0x807a1b0
+seen at seed=250781 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.250781 file_md5=5d1377cf3de61faa030a847231e58a3a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s250781 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.250781
+EIP=0x807a1b0
+seen at seed=252270 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.252270 file_md5=490d0ea9c9ef46bd7cc7cf08a53b1e4b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s252270 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.252270
+EIP=0x807a1b0
+seen at seed=253789 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.253789 file_md5=a88b393ff561b3050424ca2ac1023fc8
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s253789 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.253789
+EIP=0x807a1b0
+seen at seed=255262 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.255262 file_md5=09e8aad7e8a4f071c79627f8ec515185
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s255262 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.255262
+EIP=0x807a1b0
+seen at seed=256135 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.256135 file_md5=dcad49a0ceda1fdfb2b66207130cca8e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s256135 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.256135
+EIP=0x807a1b0
+seen at seed=258033 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.258033 file_md5=dda206d742e37c3dbbb9116b636e460a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s258033 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.258033
+EIP=0x807a1b0
+seen at seed=259472 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.259472 file_md5=e7593d242d741a750446d1599130b6fa
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s259472 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.259472
+EIP=0x807a1b0
+seen at seed=262296 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.262296 file_md5=b4a2a30ffede47a72d0c0fc969c6af92
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s262296 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.262296
+EIP=0x807a1b0
+seen at seed=264993 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.264993 file_md5=6ba57290807fc79d74a0ad6e517b4549
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s264993 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.264993
+EIP=0x807a1b0
+seen at seed=266539 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.266539 file_md5=5b360acef5d6f91d8bf1c78b307bc77d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s266539 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.266539
+EIP=0x807a1b0
+seen at seed=266951 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.266951 file_md5=68dd69c6f37713c2de9159c9555971fd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s266951 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.266951
+EIP=0x807a1b0
+seen at seed=267305 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.267305 file_md5=dbe8eccc3a4b42305c3cfe8e1a267ac2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s267305 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.267305
+EIP=0x807a1b0
+seen at seed=268458 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.268458 file_md5=6f4f97cff0cd84671a4a7aac0f80c7f9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s268458 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.268458
+EIP=0x807a1b0
+seen at seed=269654 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.269654 file_md5=0511bfc4108b1a01fec84098999ed2dd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s269654 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.269654
+EIP=0x807a1b0
+seen at seed=272101 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.272101 file_md5=4326bfc711e363a2a4515649f38c3565
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s272101 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.272101
+EIP=0x807a1b0
+seen at seed=272974 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.272974 file_md5=f39e21be62fbfb860c35f76412187721
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s272974 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.272974
+EIP=0x807a1b0
+seen at seed=274846 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.274846 file_md5=ef9dbb8e74ddb33dd373b33deb2c28b7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s274846 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.274846
+EIP=0x807a1b0
+seen at seed=275264 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.275264 file_md5=6fe93a46c9ab556f1210e93bbed4641f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s275264 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.275264
+EIP=0x807a1b0
+seen at seed=278687 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.278687 file_md5=79be17ca10830fc53861e828492cf8b9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s278687 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.278687
+EIP=0x807a1b0
+seen at seed=278832 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.278832 file_md5=afce68146fe4e71ebd562f6c4b6d5f0e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s278832 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.278832
+EIP=0x807a1b0
+seen at seed=284404 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.284404 file_md5=3dd4079d009f950dd29e144924cee0a6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s284404 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.284404
+EIP=0x807a1b0
+seen at seed=286131 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.286131 file_md5=7f3ed2e2c984fd459660e98234484e08
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s286131 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.286131
+EIP=0x807a1b0
+seen at seed=286298 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.286298 file_md5=7dc24a93252ad1fa1cfba0c33b971a77
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s286298 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.286298
+EIP=0x807a1b0
+seen at seed=286747 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.286747 file_md5=d404d2565cbfb8a3f6b769a0e894858c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s286747 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.286747
+EIP=0x807a1b0
+seen at seed=287459 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.287459 file_md5=dff011c70303cb7c4864ed66f6651db7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s287459 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.287459
+EIP=0x807a1b0
+seen at seed=288578 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.288578 file_md5=895e6cb3c40dea5bf86bee0e81210612
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s288578 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.288578
+EIP=0x807a1b0
+seen at seed=290762 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.290762 file_md5=47e3be54ee4c806a89cbbfbe6cc203dd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s290762 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.290762
+EIP=0x807a1b0
+seen at seed=291385 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.291385 file_md5=ba4c2dd194d44822a63c3923255ccc21
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s291385 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.291385
+EIP=0x807a1b0
+seen at seed=292113 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.292113 file_md5=22f4b794fd3e3ba73d07b87555432aab
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s292113 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.292113
+EIP=0x807a1b0
+seen at seed=292698 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.292698 file_md5=7d31c421df3416528a69bd93e51dde12
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s292698 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.292698
+EIP=0x807a1b0
+seen at seed=294557 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.294557 file_md5=204591a836c3d711060d012a9db03245
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s294557 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.294557
+EIP=0x807a1b0
+seen at seed=298592 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.298592 file_md5=32ff526492f20cefd7294c9a7e6f9eb2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s298592 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.298592
+EIP=0x807a1b0
+seen at seed=298729 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.298729 file_md5=681b5d482a626e8740005d4a5b4816ee
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s298729 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.298729
+EIP=0x807a1b0
+seen at seed=299499 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.299499 file_md5=6c20db3b543521273d7f289a356310e4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s299499 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.299499
+EIP=0x807a1b0
+seen at seed=301520 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.301520 file_md5=6bb6a9f38ad45ffd4c011270315745ee
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s301520 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.301520
+EIP=0x807a1b0
+seen at seed=302967 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.302967 file_md5=c79dc1fe6c12bbba0e45160bdf25a3d6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s302967 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.302967
+EIP=0x807a1b0
+seen at seed=306053 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.306053 file_md5=38aeee8c5c4bd000d167816c683d8a54
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s306053 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.306053
+EIP=0x807a1b0
+seen at seed=306756 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.306756 file_md5=5c624b7146585c9779558da957ee5399
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s306756 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.306756
+EIP=0x807a1b0
+seen at seed=307136 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.307136 file_md5=009b4f8284f10ee617b1b25c51c46fec
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s307136 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.307136
+EIP=0x807a1b0
+seen at seed=309479 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.309479 file_md5=20489d9f194a3f226dba3530a8aa2f18
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s309479 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.309479
+EIP=0x807a1b0
+seen at seed=310403 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.310403 file_md5=75ab015ef255e8b73bdd0260f85de12d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s310403 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.310403
+EIP=0x807a1b0
+seen at seed=310463 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.310463 file_md5=74853990aaa3f508f50d49f05d482680
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s310463 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.310463
+EIP=0x807a1b0
+seen at seed=310641 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.310641 file_md5=6d2d68a0389fd3274827c282ef49adb8
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s310641 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.310641
+EIP=0x807a1b0
+seen at seed=311383 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.311383 file_md5=16966daeb390b91481f062f92f9c4c25
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s311383 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.311383
+EIP=0x807a1b0
+seen at seed=314574 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.314574 file_md5=1235a7b989faedbc98ad805405b0018b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s314574 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.314574
+EIP=0x807a1b0
+seen at seed=314811 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.314811 file_md5=07e214946987eec51d796bc175213725
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s314811 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.314811
+EIP=0x807a1b0
+seen at seed=315758 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.315758 file_md5=9ee4cb8153d79f4bf292d978bc2fb698
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s315758 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.315758
+EIP=0x807a1b0
+seen at seed=316557 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.316557 file_md5=fb70d184afbc853906fc3a923756ad4a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s316557 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.316557
+EIP=0x807a1b0
+seen at seed=317654 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.317654 file_md5=0a798520e871776a95bfe88986cede85
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s317654 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.317654
+EIP=0x807a1b0
+seen at seed=321431 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.321431 file_md5=e372f6fea542e4f66fc4cfba3e3ec113
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s321431 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.321431
+EIP=0x807a1b0
+seen at seed=321616 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.321616 file_md5=adcbb4c04ebe0f9f83f353836ba7d304
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s321616 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.321616
+EIP=0x807a1b0
+seen at seed=324905 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.324905 file_md5=25f843a9e7cc8da9a0d51e2cbba85401
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s324905 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.324905
+EIP=0x807a1b0
+seen at seed=325690 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.325690 file_md5=086ef75a23fed852ee322a0fb0329f28
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s325690 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.325690
+EIP=0x807a1b0
+seen at seed=326214 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.326214 file_md5=e2b1bc42d591e51df752971655dc3314
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s326214 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.326214
+EIP=0x807a1b0
+seen at seed=328492 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.328492 file_md5=06dcd42942418631bfef791389bd8209
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s328492 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.328492
+EIP=0x807a1b0
+seen at seed=329679 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.329679 file_md5=0dc8e3f5f303d10e4fca2d1fed065fad
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s329679 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.329679
+EIP=0x807a1b0
+seen at seed=329761 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.329761 file_md5=a0d3c16db5a00be1ef29e015e5a3946d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s329761 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.329761
+EIP=0x807a1b0
+seen at seed=330893 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.330893 file_md5=7d0d663113701a8e70c3aadf48245fbf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s330893 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.330893
+EIP=0x807a1b0
+seen at seed=335337 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.335337 file_md5=9280a589bd8ee787376e225b78905c20
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s335337 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.335337
+EIP=0x807a1b0
+seen at seed=335957 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.335957 file_md5=48021e759d36920ae9de3b81950a25b5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s335957 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.335957
+EIP=0x807a1b0
+seen at seed=337191 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.337191 file_md5=19cacf6e4250557aa64cc01307ceef99
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s337191 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.337191
+EIP=0x807a1b0
+seen at seed=337217 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.337217 file_md5=0925db90ac076743dc89e9501c416745
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s337217 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.337217
+EIP=0x807a1b0
+seen at seed=338780 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.338780 file_md5=e16a3b243fa97239efa2812a63e5c4d4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s338780 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.338780
+EIP=0x807a1b0
+seen at seed=339024 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.339024 file_md5=65d07ad542789ce282453415381f4cd3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s339024 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.339024
+EIP=0x807a1b0
+seen at seed=340710 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.340710 file_md5=17b8429f14db06f52660e824ab4a1bbb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s340710 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.340710
+EIP=0x807a1b0
+seen at seed=345467 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.345467 file_md5=8c4ddf7754111768225c2472984647e5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s345467 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.345467
+EIP=0x807a1b0
+seen at seed=348365 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.348365 file_md5=906ef8f0168777ebd18e9f1227301c13
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s348365 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.348365
+EIP=0x807a1b0
+seen at seed=348890 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.348890 file_md5=8d4492fc2bd621f3e9d0b6c1d0b10b8f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s348890 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.348890
+EIP=0x807a1b0
+seen at seed=352667 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.352667 file_md5=852ad0c2991b9531c11e342ac081bed4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s352667 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.352667
+EIP=0x807a1b0
+seen at seed=353106 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.353106 file_md5=18c2a32b5e5ab2fc6a18f9a05b26e868
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s353106 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.353106
+EIP=0x807a1b0
+seen at seed=356312 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.356312 file_md5=536d4dd87f2dbae0a10af58314efb1fb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s356312 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.356312
+EIP=0x807a1b0
+seen at seed=356373 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.356373 file_md5=1dd48ae45c74d1dcc2d7d14b954300cd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s356373 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.356373
+EIP=0x807a1b0
+seen at seed=357218 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.357218 file_md5=2828194bc15baed2533c3e67ed0e6f3a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s357218 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.357218
+EIP=0x807a1b0
+seen at seed=360077 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.360077 file_md5=906ef8f0168777ebd18e9f1227301c13
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s360077 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.360077
+EIP=0x807a1b0
+seen at seed=361935 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.361935 file_md5=0552fa5d0c79cb7c0c5204a166eedbc3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s361935 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.361935
+EIP=0x807a1b0
+seen at seed=363561 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.363561 file_md5=614f44e1daf8dddc61662fffc90a14ea
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s363561 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.363561
+EIP=0x807a1b0
+seen at seed=364681 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.364681 file_md5=d932a2ed1309373b0ea9c4b69550ea6f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s364681 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.364681
+EIP=0x807a1b0
+seen at seed=367330 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.367330 file_md5=65559b3829c3e9e2f9dc94fd6dbf691b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s367330 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.367330
+EIP=0x807a1b0
+seen at seed=367913 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.367913 file_md5=5bb97ff01eb894ef5a9ca4dd406d9f61
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s367913 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.367913
+EIP=0x807a1b0
+seen at seed=370391 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.370391 file_md5=938016e912adce2053a15b09c16e5180
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s370391 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.370391
+EIP=0x807a1b0
+seen at seed=374966 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.374966 file_md5=5edab435ed515cd3d66776f0605ed991
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s374966 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.374966
+EIP=0x807a1b0
+seen at seed=376565 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.376565 file_md5=c12c7a8c02e86dca225a1c6d51500eae
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s376565 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.376565
+EIP=0x807a1b0
+seen at seed=382952 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.382952 file_md5=5c5a54381730aa7a4ec55c29432e0d25
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s382952 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.382952
+EIP=0x807a1b0
+seen at seed=383870 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.383870 file_md5=f3c499be7caa36fe9b0be92aa101f1ec
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s383870 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.383870
+EIP=0x807a1b0
+seen at seed=385891 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.385891 file_md5=665bc1d6111343faf5afea3b46ad0714
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s385891 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.385891
+EIP=0x807a1b0
+seen at seed=387835 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.387835 file_md5=ddf87b2a6ae2b53329b0626c4b22acee
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s387835 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.387835
+EIP=0x807a1b0
+seen at seed=388539 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.388539 file_md5=38c423f652d961bc4453b495a0887b73
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s388539 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.388539
+EIP=0x807a1b0
+seen at seed=389300 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.389300 file_md5=8150d4f3520de4a73f80ce544c7408af
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s389300 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.389300
+EIP=0x807a1b0
+seen at seed=389904 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.389904 file_md5=ea73e47a671a6a7bb7372f7244343f9e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s389904 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.389904
+EIP=0x807a1b0
+seen at seed=389987 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.389987 file_md5=4c4d6b5559735078f21682444e517069
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s389987 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.389987
+EIP=0x807a1b0
+seen at seed=390563 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.390563 file_md5=9fd61e5d71228840e28c3647c3764227
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s390563 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.390563
+EIP=0x807a1b0
+seen at seed=392591 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.392591 file_md5=02689cf9c7d3069930f1af18ca6716c1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s392591 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.392591
+EIP=0x807a1b0
+seen at seed=392733 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.392733 file_md5=e67879cba7e91d2648a3896c018bdc6a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s392733 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.392733
+EIP=0x807a1b0
+seen at seed=394215 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.394215 file_md5=eb421c65211f433480c5e347679b2ce4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s394215 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.394215
+EIP=0x807a1b0
+seen at seed=394624 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.394624 file_md5=450832014861b205bfa04b7c2ddcd9f2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s394624 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.394624
+EIP=0x807a1b0
+seen at seed=394942 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.394942 file_md5=ec8d812411fd5103fe08f95153b28ed1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s394942 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.394942
+EIP=0x807a1b0
+seen at seed=395676 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.395676 file_md5=224c10739aac30abe8c2672a47b6abda
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s395676 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.395676
+EIP=0x807a1b0
+seen at seed=398269 range=0.000323551:0.000523516 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.398269 file_md5=f808894d9062f9d42eb15be28894ea84
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s398269 -r0.000323551:0.000523516 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.398269
+EIP=0x807a1b0
+seen at seed=400387 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.400387 file_md5=7c794f12a152f42448950f1fe38dc368
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s400387 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.400387
+EIP=0x807a1b0
+seen at seed=401486 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.401486 file_md5=dd0670f9466c270dcf04e249573a7928
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s401486 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.401486
+EIP=0x807a1b0
+seen at seed=403932 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.403932 file_md5=a9dbce350285c39b15c0d6dcf7afd3d9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s403932 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.403932
+EIP=0x807a1b0
+seen at seed=404149 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.404149 file_md5=044e5ab044593e0fbfa55b5ca34529d6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s404149 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.404149
+EIP=0x807a1b0
+seen at seed=405645 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.405645 file_md5=e30f09a3a3b9a2b08374cbe8d4929121
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s405645 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.405645
+EIP=0x807a1b0
+seen at seed=405974 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.405974 file_md5=1947d223fe457b78efb4dfbe5af57240
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s405974 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.405974
+EIP=0x807a1b0
+seen at seed=407426 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.407426 file_md5=56056ab1ff2a587ac387dbff5baad3db
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s407426 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.407426
+EIP=0x807a1b0
+seen at seed=410040 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.410040 file_md5=93aab580950b007a42e53a92290a25b3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s410040 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.410040
+EIP=0x807a1b0
+seen at seed=411294 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.411294 file_md5=63afdc4afb553f810a838ea53e9439f4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s411294 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.411294
+EIP=0x807a1b0
+seen at seed=413403 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.413403 file_md5=50eadb7c8f9c63ae8b70d9728a6ad228
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s413403 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.413403
+EIP=0x807a1b0
+seen at seed=414250 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.414250 file_md5=c62be26ba3554e7debd1402849349df1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s414250 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.414250
+EIP=0x807a1b0
+seen at seed=416655 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.416655 file_md5=a7b3231bb67a7f42db827fe9282c46c3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s416655 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.416655
+EIP=0x807a1b0
+seen at seed=417460 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.417460 file_md5=03a34c167b4c0bebe9ca8b66514ced0f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s417460 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.417460
+EIP=0x807a1b0
+seen at seed=418327 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.418327 file_md5=7c7e2826c1d7ca74a8ed04067dda7fe7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s418327 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.418327
+EIP=0x807a1b0
+seen at seed=419739 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.419739 file_md5=2484577a9f01f07e862b7eb1a20b834e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s419739 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.419739
+EIP=0x807a1b0
+seen at seed=422735 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.422735 file_md5=2f91f152e7a12b82a6fc91c94c1303cb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s422735 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.422735
+EIP=0x807a1b0
+seen at seed=422925 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.422925 file_md5=5863b62f9789349e1146df8e250d12bc
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s422925 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.422925
+EIP=0x807a1b0
+seen at seed=423105 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.423105 file_md5=ea21176be787246ba4aafe58270a0434
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s423105 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.423105
+EIP=0x807a1b0
+seen at seed=423146 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.423146 file_md5=9d49cfdd1b5fc7154881731c32146398
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s423146 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.423146
+EIP=0x807a1b0
+seen at seed=430157 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.430157 file_md5=6d2385a15cc533211424e2ccefcdf2b2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s430157 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.430157
+EIP=0x807a1b0
+seen at seed=430536 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.430536 file_md5=f959fbd9ed492a734ec4d753f473633a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s430536 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.430536
+EIP=0x807a1b0
+seen at seed=431169 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.431169 file_md5=f96465c4a8df6c76fa1483a6a0013c2b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s431169 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.431169
+EIP=0x807a1b0
+seen at seed=432246 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.432246 file_md5=b56230c7718a79159f52986fc4ebc280
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s432246 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.432246
+EIP=0x807a1b0
+seen at seed=434515 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.434515 file_md5=a90907312e0562576fa4589c49995ee1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s434515 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.434515
+EIP=0x807a1b0
+seen at seed=434677 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.434677 file_md5=628a9a7dd1b1ddd30aeaef45f7ade9ef
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s434677 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.434677
+EIP=0x807a1b0
+seen at seed=436339 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.436339 file_md5=5349a2226a3a55474a9af960364ba42b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s436339 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.436339
+EIP=0x807a1b0
+seen at seed=437106 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.437106 file_md5=efdd687584dd19f961c798dbc5422579
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s437106 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.437106
+EIP=0x807a1b0
+seen at seed=437519 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.437519 file_md5=b801f6b6f740b86c225fd74eebad3564
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s437519 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.437519
+EIP=0x807a1b0
+seen at seed=437968 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.437968 file_md5=8972c6885f11ae1d74559287d8236c5b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s437968 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.437968
+EIP=0x807a1b0
+seen at seed=439653 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.439653 file_md5=2cfa0218557f39aa650e1d6265deff3a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s439653 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.439653
+EIP=0x807a1b0
+seen at seed=442434 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.442434 file_md5=2dd152f5ed360a4bce41a24a7d4ee5ba
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s442434 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.442434
+EIP=0x807a1b0
+seen at seed=442513 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.442513 file_md5=379481291b057eb33f45728983a043d0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s442513 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.442513
+EIP=0x807a1b0
+seen at seed=444046 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.444046 file_md5=4990a897f2b8239194c04c4a4a4650f2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s444046 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.444046
+EIP=0x807a1b0
+seen at seed=450076 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.450076 file_md5=f811a9a5db215088b4c79c713062eb9d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s450076 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.450076
+EIP=0x807a1b0
+seen at seed=450508 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.450508 file_md5=6302894e28f5f21730e020fc545acc06
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s450508 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.450508
+EIP=0x807a1b0
+seen at seed=450738 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.450738 file_md5=4043ab9f2bf0fc968fad7e48dff976cf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s450738 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.450738
+EIP=0x807a1b0
+seen at seed=456049 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.456049 file_md5=2bee81598bb103139bff88af6bb27b1a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s456049 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.456049
+EIP=0x807a1b0
+seen at seed=461135 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.461135 file_md5=66c29d53666ffe3834cc1a17a978820a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s461135 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.461135
+EIP=0x807a1b0
+seen at seed=461461 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.461461 file_md5=49f4d48db74b0256aef2a99cae613f9c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s461461 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.461461
+EIP=0x807a1b0
+seen at seed=463809 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.463809 file_md5=6838847da57d02f507f74e853dc78526
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s463809 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.463809
+EIP=0x807a1b0
+seen at seed=464942 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.464942 file_md5=2457ea27f6f574ce03107e88202951d2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s464942 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.464942
+EIP=0x807a1b0
+seen at seed=467294 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.467294 file_md5=2d058ff4abcb50206b0498a3c5524bce
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s467294 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.467294
+EIP=0x807a1b0
+seen at seed=467914 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.467914 file_md5=679340bc06f9e830838378a03fe1bc75
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s467914 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.467914
+EIP=0x807a1b0
+seen at seed=468174 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.468174 file_md5=2c1263ee72fe97a974e9ace22c7384d7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s468174 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.468174
+EIP=0x807a1b0
+seen at seed=468692 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.468692 file_md5=510f291adc8b49f01a7bfa48b3f6997b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s468692 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.468692
+EIP=0x807a1b0
+seen at seed=475879 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.475879 file_md5=73da3895873f66438b9d1bd26bb0f790
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s475879 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.475879
+EIP=0x807a1b0
+seen at seed=477560 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.477560 file_md5=0ea3d8efac1c47d325268444153ff98e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s477560 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.477560
+EIP=0x807a1b0
+seen at seed=478686 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.478686 file_md5=f9f8f62a0039727ddad513f3762cde6e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s478686 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.478686
+EIP=0x807a1b0
+seen at seed=478718 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.478718 file_md5=649117df7417f2b63fade40fd965e057
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s478718 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.478718
+EIP=0x807a1b0
+seen at seed=479903 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.479903 file_md5=0a95a449e41a6db44f1ce727d2bfed9f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s479903 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.479903
+EIP=0x807a1b0
+seen at seed=482328 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.482328 file_md5=50e76e0cf7f191b83ef144f123c0d143
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s482328 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.482328
+EIP=0x807a1b0
+seen at seed=482693 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.482693 file_md5=a95d2708f63c47781d09f9e0250d11fc
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s482693 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.482693
+EIP=0x807a1b0
+seen at seed=482996 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.482996 file_md5=209a68d31874db71261f66b8e580314d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s482996 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.482996
+EIP=0x807a1b0
+seen at seed=483443 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.483443 file_md5=28bafaa95f88af620901c6bf1b1a14f4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s483443 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.483443
+EIP=0x807a1b0
+seen at seed=483828 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.483828 file_md5=32c81726572aff326c5483d97baf3ae3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s483828 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.483828
+EIP=0x807a1b0
+seen at seed=486037 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.486037 file_md5=619951f05a1a5c89515ffe3f030f2c0e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s486037 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.486037
+EIP=0x807a1b0
+seen at seed=487428 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.487428 file_md5=feafff3a1f0e2aacbb28f919e9d0d817
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s487428 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.487428
+EIP=0x807a1b0
+seen at seed=487747 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.487747 file_md5=eb92b1e3fd6b2683e7a5ab6e72fe4453
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s487747 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.487747
+EIP=0x807a1b0
+seen at seed=488951 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.488951 file_md5=b0458f09e1ba2f6d0633a3037aec31d7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s488951 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.488951
+EIP=0x807a1b0
+seen at seed=490573 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.490573 file_md5=010b39c4acbdc016324a95533f746c86
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s490573 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.490573
+EIP=0x807a1b0
+seen at seed=492058 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.492058 file_md5=a0e579f8b1b2234e43ba2137df9dcf31
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s492058 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.492058
+EIP=0x807a1b0
+seen at seed=493816 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.493816 file_md5=61cb050c0fe162f3a49ad83106aa8224
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s493816 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.493816
+EIP=0x807a1b0
+seen at seed=493831 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.493831 file_md5=83a2b329e8ea26eea48a6819415d9e33
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s493831 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.493831
+EIP=0x807a1b0
+seen at seed=496156 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.496156 file_md5=0c078e3bfd9192862d2ce25508a6343e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s496156 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.496156
+EIP=0x807a1b0
+seen at seed=496401 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.496401 file_md5=994b5856c12a9051b61de9b26369cae6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s496401 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.496401
+EIP=0x807a1b0
+seen at seed=497532 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.497532 file_md5=ca8be7eeda6c66aebdbf25dfbdd62d6b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s497532 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.497532
+EIP=0x807a1b0
+seen at seed=498338 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.498338 file_md5=34f3f09e9b26fee792ad5e28eeb2356b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s498338 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.498338
+EIP=0x807a1b0
+seen at seed=499441 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.499441 file_md5=338e71e039216ba38045af7cfc2cc1ae
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s499441 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.499441
+EIP=0x807a1b0
+seen at seed=499600 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.499600 file_md5=1f22f2e92a3797bb11baa0dc8bf8d407
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s499600 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.499600
+EIP=0x807a1b0
+seen at seed=500857 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.500857 file_md5=97ee1a7e035235a935b40d3a94a6f36b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s500857 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.500857
+EIP=0x807a1b0
+seen at seed=502640 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.502640 file_md5=346897eca40ddcd8e87e60202096239d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s502640 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.502640
+EIP=0x807a1b0
+seen at seed=502972 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.502972 file_md5=1f42994b67a6502340d805265f66e2a9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s502972 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.502972
+EIP=0x807a1b0
+seen at seed=503556 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.503556 file_md5=746322e5a21ac893189459caa15adfdd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s503556 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.503556
+EIP=0x807a1b0
+seen at seed=507336 range=0.00358823:0.00580589 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.507336 file_md5=9b6f28c8ffc7676fa696abc2833cbe19
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s507336 -r0.00358823:0.00580589 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.507336
+EIP=0x807a1b0
+seen at seed=509651 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509651 file_md5=d415fb2370a22e3a8a1c6d4a9193053b
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s509651 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509651
+EIP=0x807a1b0
+seen at seed=509667 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509667 file_md5=89eb0280f6617367471b9ba32b952af3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s509667 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509667
+EIP=0x807a1b0
+seen at seed=509860 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509860 file_md5=ad964df848f86d17072ffe54a0db4cd4
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s509860 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509860
+EIP=0x807a1b0
+seen at seed=509906 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509906 file_md5=e9fd73214cd51bb7cae3495b27e9702c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s509906 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.509906
+EIP=0x807a1b0
+seen at seed=515527 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.515527 file_md5=bb7a5c9172ad1bf67bc80532f7f3563e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s515527 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.515527
+EIP=0x807a1b0
+seen at seed=515544 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.515544 file_md5=9d3091fe477143bd2b783c63b4ac57d6
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s515544 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.515544
+EIP=0x807a1b0
+seen at seed=519257 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.519257 file_md5=05ccc49d6ee3087d6f07a27b97131d68
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s519257 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.519257
+EIP=0x807a1b0
+seen at seed=521534 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.521534 file_md5=c0ee13d7b129e7e56163e928632eb6f5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s521534 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.521534
+EIP=0x807a1b0
+seen at seed=523758 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.523758 file_md5=e679dcba1b709575dd3d7001f48bf0b1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s523758 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.523758
+EIP=0x807a1b0
+seen at seed=527347 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.527347 file_md5=b3f4de51156d3b1acbc94a35619cb1a7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s527347 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.527347
+EIP=0x807a1b0
+seen at seed=527925 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.527925 file_md5=1e7c6d38154db6d75d6ee3c5d098e04c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s527925 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.527925
+EIP=0x807a1b0
+seen at seed=531098 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.531098 file_md5=d9ad76b7aa1b105ff530f55f3c7651a5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s531098 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.531098
+EIP=0x807a1b0
+seen at seed=531157 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.531157 file_md5=9ac271b507347c106a8ad26aa15909fd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s531157 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.531157
+EIP=0x807a1b0
+seen at seed=535198 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.535198 file_md5=003a11c4f88585390b8a6a2c8a6c6dfd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s535198 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.535198
+EIP=0x807a1b0
+seen at seed=538484 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.538484 file_md5=e5c9ca0b1a54f564a3e0ea6d1401e1c9
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s538484 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.538484
+EIP=0x807a1b0
+seen at seed=538902 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.538902 file_md5=0a52d33d300eb556041d580fce4a333a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s538902 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.538902
+EIP=0x807a1b0
+seen at seed=539952 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.539952 file_md5=673e66defa2a3ec7723e727205c201a0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s539952 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.539952
+EIP=0x807a1b0
+seen at seed=543111 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.543111 file_md5=1ec5351209b32c76fcdd75f7a971cfe5
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s543111 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.543111
+EIP=0x807a1b0
+seen at seed=545216 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.545216 file_md5=1c67442438168feebe7671aadbde3c4f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s545216 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.545216
+EIP=0x807a1b0
+seen at seed=546988 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.546988 file_md5=80ebe7cbc5292957966214e1adc6dd99
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s546988 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.546988
+EIP=0x807a1b0
+seen at seed=548247 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.548247 file_md5=f85f9d47a2a25e9aa124544e9ed8d1d7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s548247 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.548247
+EIP=0x807a1b0
+seen at seed=548474 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.548474 file_md5=c0e6837061d169840b850f352e3f1f54
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s548474 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.548474
+EIP=0x807a1b0
+seen at seed=550209 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.550209 file_md5=6971831827ede8857264003d75353a60
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s550209 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.550209
+EIP=0x807a1b0
+seen at seed=550879 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.550879 file_md5=54ca40d1d08f19e31365f6c6ac90ae68
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s550879 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.550879
+EIP=0x807a1b0
+seen at seed=551583 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.551583 file_md5=3de188af06124609cabea517acec6f9a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s551583 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.551583
+EIP=0x807a1b0
+seen at seed=553749 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.553749 file_md5=9ac271b507347c106a8ad26aa15909fd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s553749 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.553749
+EIP=0x807a1b0
+seen at seed=555760 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.555760 file_md5=8eb6d0f06ca861afac45fb5832f4b700
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s555760 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.555760
+EIP=0x807a1b0
+seen at seed=556584 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.556584 file_md5=495d705ea61c595a35c33d9e26d75263
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s556584 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.556584
+EIP=0x807a1b0
+seen at seed=556643 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.556643 file_md5=e056b9db5afb6c9614f1e8d322a5c3bd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s556643 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.556643
+EIP=0x807a1b0
+seen at seed=560006 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.560006 file_md5=cb381b6652901b3c3776db418534866f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s560006 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.560006
+EIP=0x807a1b0
+seen at seed=560499 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.560499 file_md5=04f7c3a2e751dfcd3defeb83ac1672e2
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s560499 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.560499
+EIP=0x807a1b0
+seen at seed=561813 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.561813 file_md5=e517d06d8d9b1ba191f61bd7043123a7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s561813 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.561813
+EIP=0x807a1b0
+seen at seed=563811 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.563811 file_md5=8aced4a959bcbf39f70e2de33d64f511
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s563811 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.563811
+EIP=0x807a1b0
+seen at seed=565111 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565111 file_md5=b563612484f3506dbd1f5c5cba3292d1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s565111 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565111
+EIP=0x807a1b0
+seen at seed=565180 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565180 file_md5=d83749214e84dcc7f397b9057ffca3f8
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s565180 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565180
+EIP=0x807a1b0
+seen at seed=565665 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565665 file_md5=40e837b8385e81dd4052e0345c73bda0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s565665 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565665
+EIP=0x807a1b0
+seen at seed=565918 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565918 file_md5=8f75fbf8cfc83ed9a5ccf88db0c56784
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s565918 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.565918
+EIP=0x807a1b0
+seen at seed=567554 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.567554 file_md5=a25447516a8b296320f975bb24440181
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s567554 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.567554
+EIP=0x807a1b0
+seen at seed=568088 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.568088 file_md5=d11f57916fe6b31b66f6730ae88d8602
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s568088 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.568088
+EIP=0x807a1b0
+seen at seed=568391 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.568391 file_md5=840e8d7fbb847151ea7cd353dc8182bf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s568391 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.568391
+EIP=0x807a1b0
+seen at seed=569250 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.569250 file_md5=547c385e459b4a205ff423d1ab53ef26
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s569250 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.569250
+EIP=0x807a1b0
+seen at seed=569766 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.569766 file_md5=3e68b0aed5dd6371723af0280b245d94
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s569766 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.569766
+EIP=0x807a1b0
+seen at seed=571034 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.571034 file_md5=6094b396201843cfbc0cb2273df45121
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s571034 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.571034
+EIP=0x807a1b0
+seen at seed=573038 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.573038 file_md5=c31014bcf61ae843e6c18550913a2b81
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s573038 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.573038
+EIP=0x807a1b0
+seen at seed=574734 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.574734 file_md5=d89c7bfb2e7333c69d632ed5298133a3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s574734 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.574734
+EIP=0x807a1b0
+seen at seed=575253 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.575253 file_md5=e4ac089c6cf13fd6f0d342e3b97bd0a0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s575253 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.575253
+EIP=0x807a1b0
+seen at seed=576955 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.576955 file_md5=e55fc7ec79a6237c86449c1525dc74cc
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s576955 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.576955
+EIP=0x807a1b0
+seen at seed=577140 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.577140 file_md5=48d8562b4113823df165916988ec9f8f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s577140 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.577140
+EIP=0x807a1b0
+seen at seed=577391 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.577391 file_md5=99a38e5ba4fd61e7fa9053dd80ee81ef
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s577391 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.577391
+EIP=0x807a1b0
+seen at seed=577899 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.577899 file_md5=904f7e172086856d513e11ae3967dc67
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s577899 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.577899
+EIP=0x807a1b0
+seen at seed=579222 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.579222 file_md5=239311713050d68d494611cc2774b820
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s579222 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.579222
+EIP=0x807a1b0
+seen at seed=579774 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.579774 file_md5=5a377c040cfc70e6360e1bd695a24f93
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s579774 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.579774
+EIP=0x807a1b0
+seen at seed=581706 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.581706 file_md5=aa7c06f3917160ee785e26aade3d4dfe
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s581706 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.581706
+EIP=0x807a1b0
+seen at seed=583814 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.583814 file_md5=1c7d7532cd6f34e1d2092299349caf0e
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s583814 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.583814
+EIP=0x807a1b0
+seen at seed=585928 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.585928 file_md5=675121a8afc9842a29a1185874d2b256
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s585928 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.585928
+EIP=0x807a1b0
+seen at seed=586874 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.586874 file_md5=5902dd911d323434c45976a3104bef3f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s586874 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.586874
+EIP=0x807a1b0
+seen at seed=590177 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.590177 file_md5=7ee149157586dc7a25d821c0e20e679c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s590177 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.590177
+EIP=0x807a1b0
+seen at seed=593167 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.593167 file_md5=138443e64839806dec6494395bee17ba
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s593167 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.593167
+EIP=0x807a1b0
+seen at seed=594795 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.594795 file_md5=9a3e095524710e212c60d35415476823
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s594795 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.594795
+EIP=0x807a1b0
+seen at seed=599316 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.599316 file_md5=91f16a686d199d83056b0a1e1d75fdff
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s599316 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.599316
+EIP=0x807a1b0
+seen at seed=605059 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.605059 file_md5=53970a05f5ead38eeefef4ab456c7f3c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s605059 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.605059
+EIP=0x807a1b0
+seen at seed=606873 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.606873 file_md5=b6ea84f8963b955a9fd14c42d03a6713
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s606873 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.606873
+EIP=0x807a1b0
+seen at seed=606956 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.606956 file_md5=e7275423305040fcf498996510e4dbbf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s606956 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.606956
+EIP=0x807a1b0
+seen at seed=608465 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.608465 file_md5=2ce40582a806bef1f062ea167033a65f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s608465 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.608465
+EIP=0x807a1b0
+seen at seed=608878 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.608878 file_md5=1175d7a80c401770bb411eaf50928aa3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s608878 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.608878
+EIP=0x807a1b0
+seen at seed=613979 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.613979 file_md5=adbe799feea91c8331765ff9d84842f0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s613979 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.613979
+EIP=0x807a1b0
+seen at seed=614855 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.614855 file_md5=3355b0ea8d8859d8676a0c2455c252eb
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s614855 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.614855
+EIP=0x807a1b0
+seen at seed=614926 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.614926 file_md5=4854e94d25b06ee9c1b25707fd1a10fe
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s614926 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.614926
+EIP=0x807a1b0
+seen at seed=614997 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.614997 file_md5=b168645a368e42df17f1ddf5eda1f22c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s614997 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.614997
+EIP=0x807a1b0
+seen at seed=617398 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.617398 file_md5=213a5e291a1c3697ab0b784afa03d7fe
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s617398 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.617398
+EIP=0x807a1b0
+seen at seed=620349 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.620349 file_md5=caf734621b61636a18f0b0239c2c72aa
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s620349 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.620349
+EIP=0x807a1b0
+seen at seed=620386 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.620386 file_md5=4a6315c3ce2ec19137427739a92fb4bd
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s620386 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.620386
+EIP=0x807a1b0
+seen at seed=620392 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.620392 file_md5=6b16f43067af4ee939d9042740250334
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s620392 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.620392
+EIP=0x807a1b0
+seen at seed=621213 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.621213 file_md5=3af645f6fadfc4418c8882a114f83c68
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s621213 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.621213
+EIP=0x807a1b0
+seen at seed=623171 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.623171 file_md5=309d3ae18b81323b4017eea93f34451a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s623171 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.623171
+EIP=0x807a1b0
+seen at seed=625161 range=0.000523516:0.000847067 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.625161 file_md5=d84b7d47e1be65e1d271dccd95407513
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s625161 -r0.000523516:0.000847067 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.625161
+EIP=0x807a1b0
+seen at seed=626752 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.626752 file_md5=f0b42c2d5993fa3900319fe332634061
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s626752 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.626752
+EIP=0x807a1b0
+seen at seed=628652 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.628652 file_md5=b54c8efd5451cc41c7e5c3966c2fe633
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s628652 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.628652
+EIP=0x807a1b0
+seen at seed=631160 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.631160 file_md5=81a7a1114976d240a075a137152bb5be
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s631160 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.631160
+EIP=0x807a1b0
+seen at seed=631196 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.631196 file_md5=43fddf36d48012750becdfdb16936e4f
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s631196 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.631196
+EIP=0x807a1b0
+seen at seed=635417 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.635417 file_md5=6fb4b0b46cf9ea3b82a0c4741a04be7d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s635417 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.635417
+EIP=0x807a1b0
+seen at seed=637341 range=0.00137058:0.00221765 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.637341 file_md5=f937bb4857aa876b9038a2e17e6bd5ed
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s637341 -r0.00137058:0.00221765 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.637341
+EIP=0x807a1b0
+seen at seed=642360 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.642360 file_md5=a83701d66040921b8e70ad8c4974f260
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s642360 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.642360
+EIP=0x807a1b0
+seen at seed=646119 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.646119 file_md5=d6920cb475ac42c668c1dd79461137a7
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s646119 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.646119
+EIP=0x807a1b0
+seen at seed=646148 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.646148 file_md5=73f9bb6e02cc03d993dbb9d05a51651d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s646148 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.646148
+EIP=0x807a1b0
+seen at seed=649928 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.649928 file_md5=dc4aad26034eb8a8409e15c916318eac
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s649928 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.649928
+EIP=0x807a1b0
+seen at seed=650035 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.650035 file_md5=d872ae8fef6442d451fa2142e0552ec1
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s650035 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.650035
+EIP=0x807a1b0
+seen at seed=651996 range=0.00221765:0.00358823 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.651996 file_md5=be86b4b0030b2d1f4b2106a484dd9a2c
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s651996 -r0.00221765:0.00358823 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.651996
+EIP=0x807a1b0
+seen at seed=654804 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.654804 file_md5=dacda7aea4da800cd03ce082fd83b9b0
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s654804 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.654804
+EIP=0x807a1b0

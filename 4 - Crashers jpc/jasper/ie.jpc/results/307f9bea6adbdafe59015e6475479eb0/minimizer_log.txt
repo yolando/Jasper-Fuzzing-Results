@@ -1,0 +1,8 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.154 -> /mnt/hgfs/fuzz/seeds/ie.jpc
+	confidence level: 0.99900
+	starting Hamming Distance is 3
+Attempting to minimize crash(es) [307f9bea6adbdafe59015e6475479eb0]
+start=3 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=0/1 u_crashes=0
+start=3 min=1 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=0/1 u_crashes=1
+We were looking for [307f9bea6adbdafe59015e6475479eb0] ...
+	...and found 307f9bea6adbdafe59015e6475479eb0	1 times

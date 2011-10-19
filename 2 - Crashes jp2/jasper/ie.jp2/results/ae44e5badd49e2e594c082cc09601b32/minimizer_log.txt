@@ -1,0 +1,44 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.21566 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 27
+Attempting to minimize crash(es) [ae44e5badd49e2e594c082cc09601b32]
+start=27 min=27 target_guess=1 curr=13 chance=0.48148 miss=0/10 total_misses=0/1 u_crashes=0
+start=27 min=27 target_guess=1 curr=13 chance=0.48148 miss=1/10 total_misses=1/2 u_crashes=1
+start=27 min=27 target_guess=1 curr=10 chance=0.48148 miss=2/10 total_misses=2/3 u_crashes=1
+start=27 min=27 target_guess=1 curr=13 chance=0.48148 miss=3/10 total_misses=3/4 u_crashes=2
+start=27 min=27 target_guess=1 curr=16 chance=0.48148 miss=4/10 total_misses=4/5 u_crashes=3
+start=27 min=27 target_guess=1 curr=12 chance=0.48148 miss=5/10 total_misses=5/6 u_crashes=3
+start=27 min=27 target_guess=1 curr=16 chance=0.48148 miss=6/10 total_misses=6/7 u_crashes=3
+start=27 min=27 target_guess=1 curr=14 chance=0.48148 miss=7/10 total_misses=7/8 u_crashes=3
+start=27 min=27 target_guess=1 curr=10 chance=0.48148 miss=8/10 total_misses=8/9 u_crashes=3
+start=27 min=10 target_guess=1 curr=5 chance=0.50000 miss=0/10 total_misses=8/10 u_crashes=4
+start=27 min=5 target_guess=1 curr=3 chance=0.60000 miss=0/14 total_misses=8/11 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=8/12 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=1/18 total_misses=9/13 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=2/18 total_misses=10/14 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=3/18 total_misses=11/15 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=4/18 total_misses=12/16 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=5/18 total_misses=13/17 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=6/18 total_misses=14/18 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=7/18 total_misses=15/19 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=8/18 total_misses=16/20 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=9/18 total_misses=17/21 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=10/18 total_misses=18/22 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=11/18 total_misses=19/23 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=12/18 total_misses=20/24 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=13/18 total_misses=21/25 u_crashes=4
+start=27 min=3 target_guess=1 curr=2 chance=0.66667 miss=14/18 total_misses=22/26 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=15/18 total_misses=23/27 u_crashes=4
+start=27 min=3 target_guess=1 curr=2 chance=0.66667 miss=16/18 total_misses=24/28 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=17/18 total_misses=25/29 u_crashes=4
+start=27 min=3 target_guess=1 curr=1 chance=0.66667 miss=18/18 total_misses=26/30 u_crashes=4
+start=27 min=3 target_guess=2 curr=1 chance=0.33333 miss=0/18 total_misses=27/31 u_crashes=4
+start=27 min=3 target_guess=2 curr=2 chance=0.33333 miss=1/18 total_misses=28/32 u_crashes=4
+start=27 min=3 target_guess=2 curr=2 chance=0.33333 miss=2/18 total_misses=29/33 u_crashes=4
+start=27 min=3 target_guess=2 curr=2 chance=0.33333 miss=3/18 total_misses=30/34 u_crashes=4
+start=27 min=2 target_guess=2 curr=2 chance=0.33333 miss=0/18 total_misses=30/34 u_crashes=4
+We were looking for [ae44e5badd49e2e594c082cc09601b32] ...
+	...and found False	3 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	4 times
+	...and found 36e7a5cc0ad6792b6a4055a0c4547c37	6 times
+	...and found ae44e5badd49e2e594c082cc09601b32	4 times

@@ -1,0 +1,31 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.9479 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 92
+Attempting to minimize crash(es) [cb88dabe712d40cdb69311013c3e0326]
+start=92 min=92 target_guess=1 curr=42 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=92 min=42 target_guess=1 curr=21 chance=0.50000 miss=0/10 total_misses=0/2 u_crashes=1
+start=92 min=21 target_guess=1 curr=10 chance=0.47619 miss=0/10 total_misses=0/3 u_crashes=1
+start=92 min=21 target_guess=1 curr=10 chance=0.47619 miss=1/10 total_misses=1/4 u_crashes=2
+start=92 min=21 target_guess=1 curr=8 chance=0.47619 miss=2/10 total_misses=2/5 u_crashes=3
+start=92 min=8 target_guess=1 curr=3 chance=0.50000 miss=0/10 total_misses=2/6 u_crashes=3
+start=92 min=8 target_guess=1 curr=5 chance=0.50000 miss=1/10 total_misses=3/7 u_crashes=3
+start=92 min=8 target_guess=1 curr=5 chance=0.50000 miss=2/10 total_misses=4/8 u_crashes=3
+start=92 min=8 target_guess=1 curr=3 chance=0.50000 miss=3/10 total_misses=5/9 u_crashes=3
+start=92 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=5/10 u_crashes=3
+start=92 min=3 target_guess=1 curr=1 chance=0.66667 miss=1/18 total_misses=6/11 u_crashes=3
+start=92 min=3 target_guess=1 curr=1 chance=0.66667 miss=2/18 total_misses=7/12 u_crashes=3
+start=92 min=3 target_guess=1 curr=1 chance=0.66667 miss=3/18 total_misses=8/13 u_crashes=3
+start=92 min=3 target_guess=1 curr=1 chance=0.66667 miss=4/18 total_misses=9/14 u_crashes=3
+start=92 min=3 target_guess=1 curr=2 chance=0.66667 miss=5/18 total_misses=10/15 u_crashes=3
+start=92 min=3 target_guess=1 curr=2 chance=0.66667 miss=6/18 total_misses=11/16 u_crashes=3
+start=92 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=11/17 u_crashes=3
+start=92 min=2 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=12/18 u_crashes=3
+start=92 min=2 target_guess=1 curr=1 chance=0.50000 miss=2/10 total_misses=13/19 u_crashes=3
+start=92 min=2 target_guess=1 curr=1 chance=0.50000 miss=3/10 total_misses=14/20 u_crashes=3
+start=92 min=2 target_guess=1 curr=1 chance=0.50000 miss=4/10 total_misses=15/21 u_crashes=3
+Exhaustively searched all files shorter than 2
+start=92 min=2 target_guess=1 curr=1 chance=0.50000 miss=5/10 total_misses=16/22 u_crashes=3
+We were looking for [cb88dabe712d40cdb69311013c3e0326] ...
+	...and found cb88dabe712d40cdb69311013c3e0326	5 times
+	...and found False	3 times
+	...and found bf5b83c99f60ca9f9f9a3ffb3bd5f122	6 times

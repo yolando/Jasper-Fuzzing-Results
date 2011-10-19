@@ -1,0 +1,19 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.10873 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 42
+Attempting to minimize crash(es) [b7a6281ff5883b82c2311ca7e882b063]
+start=42 min=42 target_guess=1 curr=23 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=42 min=23 target_guess=1 curr=11 chance=0.52174 miss=0/11 total_misses=0/2 u_crashes=1
+start=42 min=23 target_guess=1 curr=9 chance=0.52174 miss=1/11 total_misses=1/3 u_crashes=2
+start=42 min=23 target_guess=1 curr=9 chance=0.52174 miss=2/11 total_misses=2/4 u_crashes=3
+start=42 min=23 target_guess=1 curr=14 chance=0.52174 miss=3/11 total_misses=3/5 u_crashes=3
+start=42 min=23 target_guess=1 curr=11 chance=0.52174 miss=4/11 total_misses=4/6 u_crashes=3
+start=42 min=11 target_guess=1 curr=5 chance=0.45455 miss=0/9 total_misses=4/7 u_crashes=3
+start=42 min=5 target_guess=1 curr=3 chance=0.60000 miss=0/14 total_misses=4/8 u_crashes=3
+start=42 min=3 target_guess=1 curr=2 chance=0.66667 miss=0/18 total_misses=4/9 u_crashes=3
+start=42 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=4/10 u_crashes=3
+start=42 min=1 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=4/10 u_crashes=3
+We were looking for [b7a6281ff5883b82c2311ca7e882b063] ...
+	...and found b7a6281ff5883b82c2311ca7e882b063	6 times
+	...and found False	3 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	1 times

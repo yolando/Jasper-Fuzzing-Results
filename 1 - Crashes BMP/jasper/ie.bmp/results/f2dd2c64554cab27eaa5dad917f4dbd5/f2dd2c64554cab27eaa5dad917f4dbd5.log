@@ -1,0 +1,1376 @@
+Getting STDERR for f2dd2c64554cab27eaa5dad917f4dbd5
+Valgrind for f2dd2c64554cab27eaa5dad917f4dbd5
+Minimizing from /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.1820
+bitwise_hd=1
+bytewise_hd=1
+seen at seed=1820 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.1820 file_md5=26714817a8113e762a178413a1475423
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s1820 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.1820
+EIP=0x80863f0
+seen at seed=4924 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.4924 file_md5=1eb3cae67a87de9c397516a72628ca56
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s4924 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.4924
+EIP=0x80863f0
+seen at seed=6750 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.6750 file_md5=cc41a064580996c93f94a02a6959571f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s6750 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.6750
+EIP=0x80863f0
+seen at seed=9225 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9225 file_md5=acb5b0c7aa0dac9540cac426c7fbbef8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s9225 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9225
+EIP=0x80863f0
+seen at seed=9315 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9315 file_md5=f51e79b2787371d7a440e3dd4c594be6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s9315 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9315
+EIP=0x80863f0
+seen at seed=9706 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9706 file_md5=82fa34ddc903b9b3f133d0c65d1ba447
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s9706 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9706
+EIP=0x80863f0
+seen at seed=9832 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9832 file_md5=f5bd37d1150797ead69c56f502f5c190
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s9832 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.9832
+EIP=0x80863f0
+seen at seed=11331 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.11331 file_md5=1198f6aa9890a65cd855dbe6894c5d2f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s11331 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.11331
+EIP=0x80863f0
+seen at seed=12242 range=0.000104688:0.000169389 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.12242 file_md5=e697c7f390ad84ea102e34e4b21dd4cb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s12242 -r0.000104688:0.000169389 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.12242
+EIP=0x80863f0
+seen at seed=17640 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.17640 file_md5=8a855e7c544dfa195b0cadb62b9faf0c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s17640 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.17640
+EIP=0x80863f0
+seen at seed=18068 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.18068 file_md5=e7303d33dae8c534e8c79251d45ca8db
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s18068 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.18068
+EIP=0x80863f0
+seen at seed=18877 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.18877 file_md5=b02cae163187ef9f95d828d0d36c9372
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s18877 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.18877
+EIP=0x80863f0
+seen at seed=20551 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.20551 file_md5=a28050fed7e2605a2882745477fe63fd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s20551 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.20551
+EIP=0x80863f0
+seen at seed=20645 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.20645 file_md5=16c33c7a0d2bd419e37c61a691832a07
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s20645 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.20645
+EIP=0x80863f0
+seen at seed=25524 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.25524 file_md5=d445a15de25343d17db4919ad9c1924f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s25524 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.25524
+EIP=0x80863f0
+seen at seed=25592 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.25592 file_md5=bf24a093c7e6302016abfdb8a75d0656
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s25592 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.25592
+EIP=0x80863f0
+seen at seed=27560 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.27560 file_md5=325f3d623101ca03bc4838596f980f11
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s27560 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.27560
+EIP=0x80863f0
+seen at seed=35332 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.35332 file_md5=8c1d33f66d3e13a9818c0e5a39e25a97
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s35332 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.35332
+EIP=0x80863f0
+seen at seed=40032 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.40032 file_md5=652967134e62b4016a94bad438d11368
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s40032 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.40032
+EIP=0x80863f0
+seen at seed=43106 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.43106 file_md5=124ab8cfbb8d224f886b9e2eb1de57a4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s43106 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.43106
+EIP=0x80863f0
+seen at seed=44870 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.44870 file_md5=6deb6251f7e941cae60c8ab34943b186
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s44870 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.44870
+EIP=0x80863f0
+seen at seed=45318 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.45318 file_md5=c4247077e6bdca3ab6a435b8221a534c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s45318 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.45318
+EIP=0x80863f0
+seen at seed=47551 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.47551 file_md5=88d14bae2311ada41f3bb10ef8699f27
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s47551 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.47551
+EIP=0x80863f0
+seen at seed=48210 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.48210 file_md5=1883f41d360c0f882c7ae23895d5af17
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s48210 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.48210
+EIP=0x80863f0
+seen at seed=61693 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.61693 file_md5=5111e8710d93586675d224673bd86f68
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s61693 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.61693
+EIP=0x80863f0
+seen at seed=61794 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.61794 file_md5=94f03fe0aa9ec265b51193d24417a481
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s61794 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.61794
+EIP=0x80863f0
+seen at seed=63668 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.63668 file_md5=3c84c875253b595c57b73bf27f4251d9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s63668 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.63668
+EIP=0x80863f0
+seen at seed=64185 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.64185 file_md5=bdfbce6daa3eab771fe5de30411a4a14
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s64185 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.64185
+EIP=0x80863f0
+seen at seed=65138 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.65138 file_md5=c39f17b171f71e4ebdfdb57ff45640a6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s65138 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.65138
+EIP=0x80863f0
+seen at seed=66481 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.66481 file_md5=d939bfbf1af5bffc05a9f58daa6a3ec6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s66481 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.66481
+EIP=0x80863f0
+seen at seed=67034 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.67034 file_md5=aba4398144c72f0b7c88d000e46a12c0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s67034 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.67034
+EIP=0x80863f0
+seen at seed=67061 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.67061 file_md5=5c1d1936b2a5ab197a62f4e1d39a5735
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s67061 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.67061
+EIP=0x80863f0
+seen at seed=67701 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.67701 file_md5=9ecd8ded1968154e43f9060084da89b0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s67701 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.67701
+EIP=0x80863f0
+seen at seed=77252 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.77252 file_md5=94771e30d7468835a030648594a6f97d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s77252 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.77252
+EIP=0x80863f0
+seen at seed=78054 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.78054 file_md5=5576a8d6750606a638eab7f74d377306
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s78054 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.78054
+EIP=0x80863f0
+seen at seed=81927 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.81927 file_md5=eb6eb59e44ab8994b76fbf5fde4b09f7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s81927 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.81927
+EIP=0x80863f0
+seen at seed=82091 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.82091 file_md5=7423bb7208766d30ba8b88c34b52bf69
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s82091 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.82091
+EIP=0x80863f0
+seen at seed=83100 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.83100 file_md5=0c48b9d9cb557b2f57640e7c64ee1cfd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s83100 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.83100
+EIP=0x80863f0
+seen at seed=83917 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.83917 file_md5=5bb2adc3f784bc61585ee63b34eed02a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s83917 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.83917
+EIP=0x80863f0
+seen at seed=84943 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.84943 file_md5=fd16dc4ca84c0a7a420964db494d0830
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s84943 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.84943
+EIP=0x80863f0
+seen at seed=85140 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.85140 file_md5=cadbfe25af90f1b4844042d911bdc0f3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s85140 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.85140
+EIP=0x80863f0
+seen at seed=86960 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.86960 file_md5=bf5a9edb05300061c037d51f6711724d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s86960 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.86960
+EIP=0x80863f0
+seen at seed=89807 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.89807 file_md5=5f6223017cccd2df607eaa73354eabeb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s89807 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.89807
+EIP=0x80863f0
+seen at seed=92260 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.92260 file_md5=0a68aff16168418c2ce43159c363e82f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s92260 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.92260
+EIP=0x80863f0
+seen at seed=95346 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.95346 file_md5=5929cfa839ddfdc48bb522b188b61016
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s95346 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.95346
+EIP=0x80863f0
+seen at seed=95801 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.95801 file_md5=1516c51a251ce8ebc020c6eff8e2965f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s95801 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.95801
+EIP=0x80863f0
+seen at seed=98907 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.98907 file_md5=0d3d14f83385171901ce40540586243b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s98907 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.98907
+EIP=0x80863f0
+seen at seed=101074 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.101074 file_md5=6d835280fb25171aa44f1e3a4efdbd17
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s101074 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.101074
+EIP=0x80863f0
+seen at seed=102335 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.102335 file_md5=cb24b302d8361b0c773a2ed7f129b26b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s102335 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.102335
+EIP=0x80863f0
+seen at seed=103542 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.103542 file_md5=cdd04911d4eac0d2f912b196da4439c4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s103542 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.103542
+EIP=0x80863f0
+seen at seed=107879 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.107879 file_md5=022a85c8b60d7d93cd8088eabb963e76
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s107879 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.107879
+EIP=0x80863f0
+seen at seed=114837 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.114837 file_md5=758f956b92752d9402322f495e4a100b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s114837 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.114837
+EIP=0x80863f0
+seen at seed=116590 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.116590 file_md5=a382d3bffe039552ae5c3e73ead6f254
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s116590 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.116590
+EIP=0x80863f0
+seen at seed=117159 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117159 file_md5=185257d707dfa7c04067acb622fe4502
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s117159 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117159
+EIP=0x80863f0
+seen at seed=117289 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117289 file_md5=f3888401906145adaa532b4b9d0a0dbf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s117289 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117289
+EIP=0x80863f0
+seen at seed=117584 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117584 file_md5=3a02a258c07ed4acc4433b3dd43e5f7b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s117584 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117584
+EIP=0x80863f0
+seen at seed=117621 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117621 file_md5=7327c686bb0b20f2921c125a1158b289
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s117621 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.117621
+EIP=0x80863f0
+seen at seed=118463 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.118463 file_md5=08924d4470bd9ac005a25eb19a51bfda
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s118463 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.118463
+EIP=0x80863f0
+seen at seed=119416 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.119416 file_md5=64e319e3e3c4c7853438d6021792aa19
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s119416 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.119416
+EIP=0x80863f0
+seen at seed=119586 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.119586 file_md5=e60f4118d7cc08794dbfaf5cab33a372
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s119586 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.119586
+EIP=0x80863f0
+seen at seed=119931 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.119931 file_md5=7af2c81f71b77e13022de78cec825558
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s119931 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.119931
+EIP=0x80863f0
+seen at seed=127030 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.127030 file_md5=6fb580b886e3662c56f86ee44cd7773d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s127030 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.127030
+EIP=0x80863f0
+seen at seed=127180 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.127180 file_md5=59d751b5207380a9846ad4a3c6ef1d4d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s127180 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.127180
+EIP=0x80863f0
+seen at seed=129192 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.129192 file_md5=1d3e686c55f60cc7602fba985214daff
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s129192 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.129192
+EIP=0x80863f0
+seen at seed=129621 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.129621 file_md5=290268a815333739635e16ae51de1286
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s129621 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.129621
+EIP=0x80863f0
+seen at seed=129971 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.129971 file_md5=e5552981a3ada9d96b2b39efcf27f6e7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s129971 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.129971
+EIP=0x80863f0
+seen at seed=131856 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.131856 file_md5=3a36ea61c5958d5d9e5fd7e20277a0ef
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s131856 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.131856
+EIP=0x80863f0
+seen at seed=131887 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.131887 file_md5=cdfc75e394efe76d76423cd02864c637
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s131887 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.131887
+EIP=0x80863f0
+seen at seed=133849 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.133849 file_md5=31c846f22189c2d4f3a5ce5b5290b9e8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s133849 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.133849
+EIP=0x80863f0
+seen at seed=135836 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.135836 file_md5=fc09111ec7874cdee3840092a92114ca
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s135836 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.135836
+EIP=0x80863f0
+seen at seed=144769 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.144769 file_md5=eae28300a84051c5e70a0e1ba52ba996
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s144769 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.144769
+EIP=0x80863f0
+seen at seed=151316 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.151316 file_md5=70a90980da51ae5eb9ff68066d90832f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s151316 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.151316
+EIP=0x80863f0
+seen at seed=151954 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.151954 file_md5=cbe5f692e50186a80af96a42901bd817
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s151954 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.151954
+EIP=0x80863f0
+seen at seed=153797 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.153797 file_md5=ac1e9fe8349f6bfbc422791b8edc3612
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s153797 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.153797
+EIP=0x80863f0
+seen at seed=157304 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.157304 file_md5=a1a04adabcdd371676dec894ec479913
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s157304 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.157304
+EIP=0x80863f0
+seen at seed=157679 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.157679 file_md5=25fdb265541e8d0cd21a0edfe9d1cfaa
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s157679 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.157679
+EIP=0x80863f0
+seen at seed=159202 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.159202 file_md5=04dedbfb0d740fcdeb3198f818f279a3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s159202 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.159202
+EIP=0x80863f0
+seen at seed=159208 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.159208 file_md5=62c10015c05b2c57b39b7852ef43cf89
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s159208 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.159208
+EIP=0x80863f0
+seen at seed=161687 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.161687 file_md5=106c55ee71c6c0517a9390965f3ce208
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s161687 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.161687
+EIP=0x80863f0
+seen at seed=161763 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.161763 file_md5=7727cb4a4d3588d21aed24144e42a993
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s161763 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.161763
+EIP=0x80863f0
+seen at seed=162079 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.162079 file_md5=53dfb366be4cd85082a0f29ef5790b07
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s162079 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.162079
+EIP=0x80863f0
+seen at seed=162556 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.162556 file_md5=b22fb54cc2f6671e4b5b82806af48acf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s162556 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.162556
+EIP=0x80863f0
+seen at seed=169919 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.169919 file_md5=a6c16bd5786a32e8c126b559a462e03f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s169919 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.169919
+EIP=0x80863f0
+seen at seed=170007 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.170007 file_md5=8b01f4bb91e7427c1855def9aec3fb46
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s170007 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.170007
+EIP=0x80863f0
+seen at seed=171987 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.171987 file_md5=6faf62f2826fa56d2ae6846554324096
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s171987 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.171987
+EIP=0x80863f0
+seen at seed=172132 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.172132 file_md5=39fa823e3d401cd02874f97f94616750
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s172132 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.172132
+EIP=0x80863f0
+seen at seed=175036 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.175036 file_md5=c6852e2b0eb1e2ae5f9dbfbb22c1fb06
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s175036 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.175036
+EIP=0x80863f0
+seen at seed=176060 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.176060 file_md5=9d1022d6555a17dde9c5e27b54a080ae
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s176060 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.176060
+EIP=0x80863f0
+seen at seed=180270 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.180270 file_md5=5fe6c06ac82693a5c71b4a33716d183c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s180270 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.180270
+EIP=0x80863f0
+seen at seed=180377 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.180377 file_md5=e6215479e10818bc8425e54036166dd3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s180377 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.180377
+EIP=0x80863f0
+seen at seed=180533 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.180533 file_md5=4572919d6ef215cb29058389997a741b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s180533 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.180533
+EIP=0x80863f0
+seen at seed=189335 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.189335 file_md5=6f3466b391263f59563a6a898930a19c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s189335 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.189335
+EIP=0x80863f0
+seen at seed=192104 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.192104 file_md5=5375ae51f640ccb0f8079b3930be1c2c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s192104 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.192104
+EIP=0x80863f0
+seen at seed=192981 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.192981 file_md5=6504cbd8471f9e7b1777afde03a1f4b9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s192981 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.192981
+EIP=0x80863f0
+seen at seed=194091 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.194091 file_md5=6ddf0193847e63323b78df79b0e64052
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s194091 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.194091
+EIP=0x80863f0
+seen at seed=194812 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.194812 file_md5=8b8df9d6b8132410552bb3ec3319a0f1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s194812 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.194812
+EIP=0x80863f0
+seen at seed=195731 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.195731 file_md5=9eb7f4cf16d7691493effa7f2dc885ca
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s195731 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.195731
+EIP=0x80863f0
+seen at seed=196032 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.196032 file_md5=1e5c91d91cdc7b5dc5873fc0adb71e02
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s196032 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.196032
+EIP=0x80863f0
+seen at seed=198237 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.198237 file_md5=ec1ef425d231a0c2f809788c0fbe39b9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s198237 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.198237
+EIP=0x80863f0
+seen at seed=200545 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.200545 file_md5=2af3f5af2928c0510b6092a7236e989f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s200545 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.200545
+EIP=0x80863f0
+seen at seed=202954 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.202954 file_md5=c5e0180e92dc21001edc2df5055b2cd0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s202954 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.202954
+EIP=0x80863f0
+seen at seed=204300 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.204300 file_md5=c84db934b5118e4cfb39dbf925d30944
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s204300 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.204300
+EIP=0x80863f0
+seen at seed=204636 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.204636 file_md5=33507fca293d230f6e96562d960e721d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s204636 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.204636
+EIP=0x80863f0
+seen at seed=207703 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.207703 file_md5=7f9fb5a66c707aafdd697902f0194107
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s207703 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.207703
+EIP=0x80863f0
+seen at seed=207894 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.207894 file_md5=9f80a5a7e9fa187e5d840519fab370bb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s207894 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.207894
+EIP=0x80863f0
+seen at seed=207939 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.207939 file_md5=5978a124668830e6406a2cf6ea119228
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s207939 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.207939
+EIP=0x80863f0
+seen at seed=215066 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.215066 file_md5=c24015133c3eee6d01164ce4143c922b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s215066 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.215066
+EIP=0x80863f0
+seen at seed=216958 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.216958 file_md5=1c5e2473d7b3b0dfa376143ceb4eb6d5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s216958 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.216958
+EIP=0x80863f0
+seen at seed=217964 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.217964 file_md5=ad7fdcbf9c113ee541f39374bd85ae41
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s217964 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.217964
+EIP=0x80863f0
+seen at seed=218577 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.218577 file_md5=263212c24f5d9ee81d673b548bc5c7f3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s218577 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.218577
+EIP=0x80863f0
+seen at seed=219467 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.219467 file_md5=c34798ca0d2a30f84b77c19cbb4650c3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s219467 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.219467
+EIP=0x80863f0
+seen at seed=225285 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.225285 file_md5=042f476a64331e7f2ce9eb87f46c7add
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s225285 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.225285
+EIP=0x80863f0
+seen at seed=225294 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.225294 file_md5=ae63bd55e6d00f41de55f9d44c8c91e0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s225294 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.225294
+EIP=0x80863f0
+seen at seed=225626 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.225626 file_md5=7a461af2844ab8f734c7759b490c91cf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s225626 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.225626
+EIP=0x80863f0
+seen at seed=226681 range=0.000104688:0.000169389 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.226681 file_md5=ce4887634a564c7d2c8eb5ec9c235ed0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s226681 -r0.000104688:0.000169389 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.226681
+EIP=0x80863f0
+seen at seed=227296 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.227296 file_md5=2939daf71fc957d09ed9b4a8efc770c1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s227296 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.227296
+EIP=0x80863f0
+seen at seed=227444 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.227444 file_md5=a0b0a8b7b67e9ef98fcaa2d957b10e90
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s227444 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.227444
+EIP=0x80863f0
+seen at seed=229985 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.229985 file_md5=79d2a4ea4cac30e62a277f0b528480a9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s229985 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.229985
+EIP=0x80863f0
+seen at seed=234585 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.234585 file_md5=b317c074566b6e750d8d6ab489e97f10
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s234585 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.234585
+EIP=0x80863f0
+seen at seed=238813 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.238813 file_md5=63d341304e779afcfedd2645162b521c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s238813 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.238813
+EIP=0x80863f0
+seen at seed=239746 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.239746 file_md5=eeedbde51e4a965a23a3d94c3b32939c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s239746 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.239746
+EIP=0x80863f0
+seen at seed=243554 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.243554 file_md5=8400fc33e349db1cac5f7575828323e6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s243554 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.243554
+EIP=0x80863f0
+seen at seed=245555 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.245555 file_md5=067d7c9374a33f239b10845dadf053f1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s245555 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.245555
+EIP=0x80863f0
+seen at seed=245944 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.245944 file_md5=aa0664bbc5ba43625ac4889c7f57c08e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s245944 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.245944
+EIP=0x80863f0
+seen at seed=247311 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.247311 file_md5=8ed87ae03210fbec9051f5e0863e406a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s247311 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.247311
+EIP=0x80863f0
+seen at seed=247325 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.247325 file_md5=2bf01b33f8853da434747ad7bd579e09
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s247325 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.247325
+EIP=0x80863f0
+seen at seed=247565 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.247565 file_md5=7b008894bad0a66bd275014cf2289ec0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s247565 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.247565
+EIP=0x80863f0
+seen at seed=248441 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.248441 file_md5=b7db07910ab362c2f0f502a1486d62ae
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s248441 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.248441
+EIP=0x80863f0
+seen at seed=249258 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.249258 file_md5=afee6c7b854a62baa9876fd0dca394fc
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s249258 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.249258
+EIP=0x80863f0
+seen at seed=250067 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.250067 file_md5=849146b8042d364fb77a07ac3d751c84
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s250067 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.250067
+EIP=0x80863f0
+seen at seed=251149 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.251149 file_md5=0acf216f0b22b4acfc693011d71bd1dc
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s251149 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.251149
+EIP=0x80863f0
+seen at seed=254745 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.254745 file_md5=a78f7ce3135d69c993a1a6c765c2d775
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s254745 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.254745
+EIP=0x80863f0
+seen at seed=256431 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.256431 file_md5=186d0dae041962f549f627bf98b63688
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s256431 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.256431
+EIP=0x80863f0
+seen at seed=256447 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.256447 file_md5=40f8b630d4e78ad1270d91c731e516f9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s256447 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.256447
+EIP=0x80863f0
+seen at seed=257327 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.257327 file_md5=8b60e47a99f412483ab9eecb5b6a314b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s257327 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.257327
+EIP=0x80863f0
+seen at seed=261724 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.261724 file_md5=8190bba15f22e6d0611892cddacfb775
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s261724 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.261724
+EIP=0x80863f0
+seen at seed=261759 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.261759 file_md5=9e7cd4178e732354bee468ee9b8e4129
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s261759 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.261759
+EIP=0x80863f0
+seen at seed=261843 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.261843 file_md5=415a480261d94db035107614654fc0b2
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s261843 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.261843
+EIP=0x80863f0
+seen at seed=262617 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.262617 file_md5=e041038494dba8d9e68038364b73f735
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s262617 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.262617
+EIP=0x80863f0
+seen at seed=263520 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.263520 file_md5=0369969ea4eb3829db3f16f70deed347
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s263520 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.263520
+EIP=0x80863f0
+seen at seed=264786 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.264786 file_md5=dcc29fd2b9a1b12d6ab017c265a9241b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s264786 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.264786
+EIP=0x80863f0
+seen at seed=264982 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.264982 file_md5=2d6de4e045660369c6d7efe47a7a8634
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s264982 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.264982
+EIP=0x80863f0
+seen at seed=265155 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.265155 file_md5=11f78484f55f9e0ed894bf0eb302a58e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s265155 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.265155
+EIP=0x80863f0
+seen at seed=266698 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.266698 file_md5=6e9a523aa1f6726448a4d855ae24bad4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s266698 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.266698
+EIP=0x80863f0
+seen at seed=268785 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.268785 file_md5=e1b34fe55700af8c05ea469b509d84e9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s268785 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.268785
+EIP=0x80863f0
+seen at seed=272106 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.272106 file_md5=d1fe79d460b26e74d1e52d43209643de
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s272106 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.272106
+EIP=0x80863f0
+seen at seed=273518 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.273518 file_md5=3acd0d831fc976b19513977d1f8d3ce3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s273518 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.273518
+EIP=0x80863f0
+seen at seed=274473 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.274473 file_md5=b3eaff7f3dd70ccec84e09419df0daad
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s274473 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.274473
+EIP=0x80863f0
+seen at seed=275400 range=0.000104688:0.000169389 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.275400 file_md5=b72817cb093893371df3cb62a2882381
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s275400 -r0.000104688:0.000169389 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.275400
+EIP=0x80863f0
+seen at seed=277710 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.277710 file_md5=6563bace9452a5a332ab211e53506697
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s277710 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.277710
+EIP=0x80863f0
+seen at seed=277741 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.277741 file_md5=a22b7aaa1d9f038e2f48f8fd1daa67e0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s277741 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.277741
+EIP=0x80863f0
+seen at seed=278390 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.278390 file_md5=876a62602d8d934a5651fed3c18d37fe
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s278390 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.278390
+EIP=0x80863f0
+seen at seed=279788 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.279788 file_md5=660937375327cd6499103c0c7b9f3332
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s279788 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.279788
+EIP=0x80863f0
+seen at seed=280860 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.280860 file_md5=9faf6779a16bd8c366910ffe50e4c3b3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s280860 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.280860
+EIP=0x80863f0
+seen at seed=286913 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.286913 file_md5=f552d2663506bb94a91f3d1af35f0f4a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s286913 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.286913
+EIP=0x80863f0
+seen at seed=292831 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.292831 file_md5=6a755a845333204e07c35378d3a75b79
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s292831 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.292831
+EIP=0x80863f0
+seen at seed=293107 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.293107 file_md5=ac0e4d89f87076a69ae4fb73d65454ae
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s293107 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.293107
+EIP=0x80863f0
+seen at seed=294051 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.294051 file_md5=4b1da3780f01cd036238763b40d72f60
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s294051 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.294051
+EIP=0x80863f0
+seen at seed=299290 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.299290 file_md5=39a4ca3a4982632bfdbd4b01ede3cdd6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s299290 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.299290
+EIP=0x80863f0
+seen at seed=299426 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.299426 file_md5=b9c811d70a7c630c7004cd4f7bcf1393
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s299426 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.299426
+EIP=0x80863f0
+seen at seed=299629 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.299629 file_md5=493ccdef084bcd24d0e8ba9dc070e92b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s299629 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.299629
+EIP=0x80863f0
+seen at seed=300871 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.300871 file_md5=d64fe9b9591a5999ce35c0e4622e80f5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s300871 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.300871
+EIP=0x80863f0
+seen at seed=300921 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.300921 file_md5=cea4cf36d18a35a7fcc3d084a7e8471d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s300921 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.300921
+EIP=0x80863f0
+seen at seed=302040 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.302040 file_md5=f47acc71b11f5f2a8d940abcbbaefb0f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s302040 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.302040
+EIP=0x80863f0
+seen at seed=306394 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.306394 file_md5=a9a7a0a1c43ca18a774f0ccf62d3eb2f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s306394 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.306394
+EIP=0x80863f0
+seen at seed=306950 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.306950 file_md5=3ed150f690eb470d013646723f4755b8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s306950 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.306950
+EIP=0x80863f0
+seen at seed=307332 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.307332 file_md5=38183fcea60edd175ad4dcc9c56b556f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s307332 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.307332
+EIP=0x80863f0
+seen at seed=313076 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.313076 file_md5=4316b0e1f48687addb8f3aa5c69ad5c7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s313076 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.313076
+EIP=0x80863f0
+seen at seed=319675 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.319675 file_md5=16f68dd00f9ecff5fbe190d6d48822f5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s319675 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.319675
+EIP=0x80863f0
+seen at seed=319961 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.319961 file_md5=9ce029bda8a2cce9b5b90668cbc403ab
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s319961 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.319961
+EIP=0x80863f0
+seen at seed=321331 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.321331 file_md5=2f2e139cc09240518a4665d7355bddc1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s321331 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.321331
+EIP=0x80863f0
+seen at seed=321498 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.321498 file_md5=e00e05a39710a517c4b81db0254ba444
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s321498 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.321498
+EIP=0x80863f0
+seen at seed=323868 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.323868 file_md5=199935a32af29455aa035c93ce701e1d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s323868 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.323868
+EIP=0x80863f0
+seen at seed=330462 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.330462 file_md5=d5de414e92f416e9f2962d86b00a2248
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s330462 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.330462
+EIP=0x80863f0
+seen at seed=331702 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.331702 file_md5=6bef611cfbb22a48495bf0961126eb35
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s331702 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.331702
+EIP=0x80863f0
+seen at seed=333075 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.333075 file_md5=fece259117eeb093bbf74997043ca305
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s333075 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.333075
+EIP=0x80863f0
+seen at seed=334132 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.334132 file_md5=1e039fea5ed131e378ae0e75be3bafc5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s334132 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.334132
+EIP=0x80863f0
+seen at seed=338668 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.338668 file_md5=887e85f39e400baa0e11118daea11411
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s338668 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.338668
+EIP=0x80863f0
+seen at seed=342286 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.342286 file_md5=96d3b449fbc6069487707cb652622e8f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s342286 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.342286
+EIP=0x80863f0
+seen at seed=345447 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.345447 file_md5=ae8826888c7d2fb9942f9fc2cc848f08
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s345447 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.345447
+EIP=0x80863f0
+seen at seed=345708 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.345708 file_md5=6cd86a1483f0cc0eea416ffe496bc7a3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s345708 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.345708
+EIP=0x80863f0
+seen at seed=347422 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.347422 file_md5=56ef3932000b1203e970e230fd6a53d2
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s347422 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.347422
+EIP=0x80863f0
+seen at seed=353122 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.353122 file_md5=d29ebe5cf108e96cbcc544b72d019bf6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s353122 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.353122
+EIP=0x80863f0
+seen at seed=353559 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.353559 file_md5=ac77b6f1926c3f2fd7c69210b328bbe6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s353559 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.353559
+EIP=0x80863f0
+seen at seed=356657 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.356657 file_md5=1f65d981447718478d0114e782b734de
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s356657 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.356657
+EIP=0x80863f0
+seen at seed=357055 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.357055 file_md5=c302b7a0ab4963222febcf889397b614
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s357055 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.357055
+EIP=0x80863f0
+seen at seed=357111 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.357111 file_md5=90f785f274ab99edad5692c17635ac1f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s357111 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.357111
+EIP=0x80863f0
+seen at seed=365245 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.365245 file_md5=fc11e8ced992d827e9b493727e5cab67
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s365245 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.365245
+EIP=0x80863f0
+seen at seed=365644 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.365644 file_md5=1f315736b78708c69656ecfb3365ed6b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s365644 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.365644
+EIP=0x80863f0
+seen at seed=370254 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.370254 file_md5=751e9dfde290535a68fbeaf79d56a105
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s370254 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.370254
+EIP=0x80863f0
+seen at seed=370291 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.370291 file_md5=2c713a296b7d15ea95cf81846ae35ea9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s370291 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.370291
+EIP=0x80863f0
+seen at seed=370682 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.370682 file_md5=a8806c148372b2af20d195fbfffdaa0e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s370682 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.370682
+EIP=0x80863f0
+seen at seed=371338 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.371338 file_md5=3024d02978018850dac036ae939bc04e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s371338 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.371338
+EIP=0x80863f0
+seen at seed=371946 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.371946 file_md5=6874737e16096033ac9b4ef01cf83cd8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s371946 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.371946
+EIP=0x80863f0
+seen at seed=372674 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.372674 file_md5=b1437358a6622c98bb4aaef87ba026ef
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s372674 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.372674
+EIP=0x80863f0
+seen at seed=374479 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.374479 file_md5=1514b6ba259136c7bac95b6bc79c194a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s374479 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.374479
+EIP=0x80863f0
+seen at seed=379814 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.379814 file_md5=52c731c0c72f5c697d258f40dbf37627
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s379814 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.379814
+EIP=0x80863f0
+seen at seed=379857 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.379857 file_md5=d90416c4e91063dc3e3ec56bb2a36fd6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s379857 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.379857
+EIP=0x80863f0
+seen at seed=380791 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.380791 file_md5=e4d1c762d91d411654948335de28f199
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s380791 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.380791
+EIP=0x80863f0
+seen at seed=386383 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.386383 file_md5=d7417fabeec07f6d812014bfde1333ea
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s386383 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.386383
+EIP=0x80863f0
+seen at seed=387108 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.387108 file_md5=1d263e624c79a509c9ba5634760b0e2d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s387108 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.387108
+EIP=0x80863f0
+seen at seed=391998 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.391998 file_md5=022065ba94016d0a83dd4434e372f851
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s391998 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.391998
+EIP=0x80863f0
+seen at seed=397838 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.397838 file_md5=3ad41fc902d35cc664176de671f2b53b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s397838 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.397838
+EIP=0x80863f0
+seen at seed=406167 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.406167 file_md5=d6bfed8a04eb49fb3d13801d5dbea022
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s406167 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.406167
+EIP=0x80863f0
+seen at seed=406839 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.406839 file_md5=2e3cf3e55622be16743d8b412da7be82
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s406839 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.406839
+EIP=0x80863f0
+seen at seed=407862 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.407862 file_md5=592701d28b1ece67555cb87a2371ac6e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s407862 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.407862
+EIP=0x80863f0
+seen at seed=408095 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.408095 file_md5=93395ef204750cb92022d83d29dade91
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s408095 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.408095
+EIP=0x80863f0
+seen at seed=413476 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.413476 file_md5=93b680831f53169134f6778350255177
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s413476 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.413476
+EIP=0x80863f0
+seen at seed=417360 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.417360 file_md5=9c7936e70a8e51d7981c8e9d1661e699
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s417360 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.417360
+EIP=0x80863f0
+seen at seed=417492 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.417492 file_md5=56c6ebbb0ecdad4d97f3031325578a10
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s417492 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.417492
+EIP=0x80863f0
+seen at seed=418622 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.418622 file_md5=328d61e712f3555dd758864c6283da0f
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s418622 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.418622
+EIP=0x80863f0
+seen at seed=419486 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.419486 file_md5=08bb916e6f2c6387c496e457cb002fd7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s419486 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.419486
+EIP=0x80863f0
+seen at seed=422318 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.422318 file_md5=265acd131b5fd303e1966e4c91c0e6d9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s422318 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.422318
+EIP=0x80863f0
+seen at seed=422542 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.422542 file_md5=40fcb72f2f572dfa9e94ac6bbe79ff18
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s422542 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.422542
+EIP=0x80863f0
+seen at seed=423687 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.423687 file_md5=fd87b15fa2e20fd05aa3c71ac1a070ba
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s423687 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.423687
+EIP=0x80863f0
+seen at seed=424544 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.424544 file_md5=d4d10e7260634f0e9e3ff0910b4827ce
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s424544 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.424544
+EIP=0x80863f0
+seen at seed=424584 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.424584 file_md5=74ef8303739ebc789a88beaba1d6ea8d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s424584 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.424584
+EIP=0x80863f0
+seen at seed=428828 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.428828 file_md5=34fe431b41f51f1f1d33595a89361ac3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s428828 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.428828
+EIP=0x80863f0
+seen at seed=428885 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.428885 file_md5=7bf4db5251c6ece387fbffb7130995dd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s428885 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.428885
+EIP=0x80863f0
+seen at seed=435347 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.435347 file_md5=32d1341396ff4d791ba32e62559517e4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s435347 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.435347
+EIP=0x80863f0
+seen at seed=436416 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.436416 file_md5=6903f63bf3c6d6ba141ce098580b537e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s436416 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.436416
+EIP=0x80863f0
+seen at seed=441606 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.441606 file_md5=c7edc8e09719cd03d787c57fbc554c41
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s441606 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.441606
+EIP=0x80863f0
+seen at seed=442700 range=0.000104688:0.000169389 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.442700 file_md5=2ebe4a80bf0a34e9071f737ef02ad87e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s442700 -r0.000104688:0.000169389 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.442700
+EIP=0x80863f0
+seen at seed=444789 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.444789 file_md5=f88f2099a489480d0ec5f124a06a4080
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s444789 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.444789
+EIP=0x80863f0
+seen at seed=445112 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.445112 file_md5=86e8a54e0b3c8fa2b9be29c5821e30c0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s445112 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.445112
+EIP=0x80863f0
+seen at seed=445538 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.445538 file_md5=86744523bb0fda1a47bf944330d49ec3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s445538 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.445538
+EIP=0x80863f0
+seen at seed=445592 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.445592 file_md5=f6d57621f18d294eecdd7268e7c35d1a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s445592 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.445592
+EIP=0x80863f0
+seen at seed=448547 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.448547 file_md5=9b78f93d30160075047ef38547a60949
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s448547 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.448547
+EIP=0x80863f0
+seen at seed=449756 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.449756 file_md5=f1f135fa3add3988443a8051449e000a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s449756 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.449756
+EIP=0x80863f0
+seen at seed=450138 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.450138 file_md5=21b726e6f7b034bdeb1556bb3fb1be3a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s450138 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.450138
+EIP=0x80863f0
+seen at seed=453432 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.453432 file_md5=85f99e585758bc5cda70a5dbb1705c18
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s453432 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.453432
+EIP=0x80863f0
+seen at seed=454066 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.454066 file_md5=42cea401df7f658eca881bfe264fb3ce
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s454066 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.454066
+EIP=0x80863f0
+seen at seed=455205 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.455205 file_md5=42d2c304d857f7052f8816716813d736
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s455205 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.455205
+EIP=0x80863f0
+seen at seed=455677 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.455677 file_md5=7edd6a6d88e59132e154006461be0619
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s455677 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.455677
+EIP=0x80863f0
+seen at seed=457447 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.457447 file_md5=0733aced48ba46f39777901995d1366d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s457447 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.457447
+EIP=0x80863f0
+seen at seed=457810 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.457810 file_md5=fb6bc86217fe30b55b6a8c73274f5df9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s457810 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.457810
+EIP=0x80863f0
+seen at seed=458574 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.458574 file_md5=bba1b1c2540330874753f3c4e00c0bb4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s458574 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.458574
+EIP=0x80863f0
+seen at seed=460108 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.460108 file_md5=d335effbe9bca4aff3a99023704452ad
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s460108 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.460108
+EIP=0x80863f0
+seen at seed=460187 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.460187 file_md5=e347629521e3a86906d94ba1e4a3a801
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s460187 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.460187
+EIP=0x80863f0
+seen at seed=462497 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.462497 file_md5=6f4f76b33e1a1f3920ed90e45c126976
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s462497 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.462497
+EIP=0x80863f0
+seen at seed=463793 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.463793 file_md5=1c6f0626583e364f20861a0ed04cf45c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s463793 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.463793
+EIP=0x80863f0
+seen at seed=464888 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.464888 file_md5=b911eefc61d646fb83fbfef860308797
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s464888 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.464888
+EIP=0x80863f0
+seen at seed=469882 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.469882 file_md5=39e8bee23eca331a9c1af5c322aa9550
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s469882 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.469882
+EIP=0x80863f0
+seen at seed=471996 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.471996 file_md5=59750842c98c8a59a6f9b0b6bb4cb90d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s471996 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.471996
+EIP=0x80863f0
+seen at seed=474060 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.474060 file_md5=b5aa50984ec3e35b1dbe70728652bec7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s474060 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.474060
+EIP=0x80863f0
+seen at seed=475152 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.475152 file_md5=e650c03d1406d7b27ed4e983e0829bd4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s475152 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.475152
+EIP=0x80863f0
+seen at seed=476063 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.476063 file_md5=6d94379962c34cd83844a48de45bae5c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s476063 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.476063
+EIP=0x80863f0
+seen at seed=477410 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.477410 file_md5=da357bcf5a5d6506f1bdf8ffc8680865
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s477410 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.477410
+EIP=0x80863f0
+seen at seed=480488 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.480488 file_md5=3813e0fdfba9c14b4ef970ad89c3338b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s480488 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.480488
+EIP=0x80863f0
+seen at seed=482923 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.482923 file_md5=c8b89ab4f40ad4b657b26bede94e5a88
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s482923 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.482923
+EIP=0x80863f0
+seen at seed=483635 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.483635 file_md5=09e049e2ce62fd5230d61d24082f8957
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s483635 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.483635
+EIP=0x80863f0
+seen at seed=485830 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.485830 file_md5=d5033abe540eb91189990bd71ca891f6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s485830 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.485830
+EIP=0x80863f0
+seen at seed=487415 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.487415 file_md5=ea605280edbf85e48d94608415ebfe74
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s487415 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.487415
+EIP=0x80863f0
+seen at seed=490685 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.490685 file_md5=a4bbe6251016d38c226b10ff779a6f0b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s490685 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.490685
+EIP=0x80863f0
+seen at seed=492744 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.492744 file_md5=536b61616f05006594f2f0c4d9d92968
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s492744 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.492744
+EIP=0x80863f0
+seen at seed=492949 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.492949 file_md5=042b95950bcd2fad2a80bf7a2d0a0038
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s492949 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.492949
+EIP=0x80863f0
+seen at seed=504170 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.504170 file_md5=1af3509fe53aa75de6e6875577dafdf7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s504170 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.504170
+EIP=0x80863f0
+seen at seed=511066 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.511066 file_md5=665276fae43ad0cf306082474438f6fb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s511066 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.511066
+EIP=0x80863f0
+seen at seed=517758 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.517758 file_md5=cd930c423518a13ba523b38c6f27cea7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s517758 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.517758
+EIP=0x80863f0
+seen at seed=517989 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.517989 file_md5=993c672db7d9ce345532d7ee32ed584a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s517989 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.517989
+EIP=0x80863f0
+seen at seed=518110 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.518110 file_md5=626ee4c1cfd0769bd337924824fbbe45
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s518110 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.518110
+EIP=0x80863f0
+seen at seed=519008 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.519008 file_md5=6f1effb03b8136c141ecd61306ee9fbd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s519008 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.519008
+EIP=0x80863f0
+seen at seed=520875 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.520875 file_md5=a1a09d171f69ed0a787cdf8e2b1d042d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s520875 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.520875
+EIP=0x80863f0
+seen at seed=521626 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.521626 file_md5=7fb911d010e4e1625326db32c10405bb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s521626 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.521626
+EIP=0x80863f0
+seen at seed=522151 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.522151 file_md5=d9e9f7d8e85969348e4b1b58a4270ab5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s522151 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.522151
+EIP=0x80863f0
+seen at seed=524490 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.524490 file_md5=60d1c6b159033bc4bcbe8c351a9236fa
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s524490 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.524490
+EIP=0x80863f0
+seen at seed=524568 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.524568 file_md5=4d6c46fdfb13ff2186bbca750a705691
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s524568 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.524568
+EIP=0x80863f0
+seen at seed=525737 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.525737 file_md5=224bd324032efeb1747f18662d55e0b3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s525737 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.525737
+EIP=0x80863f0
+seen at seed=526013 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.526013 file_md5=42a9c76bb6bba3a3c82db41c09d2e5d8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s526013 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.526013
+EIP=0x80863f0
+seen at seed=527860 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.527860 file_md5=a7fd2b942995e3c0c30e615702e7c4a3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s527860 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.527860
+EIP=0x80863f0
+seen at seed=528052 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.528052 file_md5=b61a2ca1fd360614632601b13b87ba31
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s528052 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.528052
+EIP=0x80863f0
+seen at seed=531258 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.531258 file_md5=5eb890ed4337d4c2e401161ea7df1006
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s531258 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.531258
+EIP=0x80863f0
+seen at seed=531469 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.531469 file_md5=9489e7c30fb455942346529cfa9ad389
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s531469 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.531469
+EIP=0x80863f0
+seen at seed=531606 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.531606 file_md5=dd145d8d7a2a70920f71268d8aabbc89
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s531606 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.531606
+EIP=0x80863f0
+seen at seed=537905 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.537905 file_md5=069b04285e6ba6a1427fc0de43755e54
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s537905 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.537905
+EIP=0x80863f0
+seen at seed=538016 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.538016 file_md5=2b6e47b7374d1e498c8b3248396334dd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s538016 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.538016
+EIP=0x80863f0
+seen at seed=543980 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.543980 file_md5=7dae940ae78a550c236617990da559ff
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s543980 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.543980
+EIP=0x80863f0
+seen at seed=545177 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.545177 file_md5=c959d2a572f9f6922a71150da309fd93
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s545177 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.545177
+EIP=0x80863f0
+seen at seed=545868 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.545868 file_md5=3d208ea63b1f0459e55e55a96182c425
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s545868 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.545868
+EIP=0x80863f0
+seen at seed=546048 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.546048 file_md5=9017689f7791f7d0edf1bb6859d4e30b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s546048 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.546048
+EIP=0x80863f0
+seen at seed=546049 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.546049 file_md5=753a4a46ab59b1f4b2faf9f43749a612
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s546049 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.546049
+EIP=0x80863f0
+seen at seed=548712 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.548712 file_md5=3bb50052b870a09a67a5773827403a0c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s548712 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.548712
+EIP=0x80863f0
+seen at seed=550335 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.550335 file_md5=5b49d5edc616a97fc39399b60bf2db5a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s550335 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.550335
+EIP=0x80863f0
+seen at seed=554537 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.554537 file_md5=3b54b9d3e8d927bf30f17125c42448e5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s554537 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.554537
+EIP=0x80863f0
+seen at seed=557858 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.557858 file_md5=a24f258d1893ed06c5f0cb68eefc17c4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s557858 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.557858
+EIP=0x80863f0
+seen at seed=560327 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.560327 file_md5=9a4d42b796c46b9be99603091748630c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s560327 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.560327
+EIP=0x80863f0
+seen at seed=566231 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.566231 file_md5=cf276fe6cbbaa39e542a7518d8324cb3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s566231 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.566231
+EIP=0x80863f0
+seen at seed=567449 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.567449 file_md5=c1dba0b2ef0f1dbf9efcc9aaed09d7a7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s567449 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.567449
+EIP=0x80863f0
+seen at seed=569595 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.569595 file_md5=80de8295446167c68bd6c77f802cf93e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s569595 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.569595
+EIP=0x80863f0
+seen at seed=570864 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.570864 file_md5=ef0967fe5209e0610dd1efb374ff1c96
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s570864 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.570864
+EIP=0x80863f0
+seen at seed=570906 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.570906 file_md5=4077916a2b0bdfafb84471a98ae616e8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s570906 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.570906
+EIP=0x80863f0
+seen at seed=573703 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.573703 file_md5=16da92b1146bbeb1f0dd161175644490
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s573703 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.573703
+EIP=0x80863f0
+seen at seed=573954 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.573954 file_md5=ff3db31b0dfb0f3b114d2dd48e5934b9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s573954 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.573954
+EIP=0x80863f0
+seen at seed=574094 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.574094 file_md5=baf19f5897fbe0d14b94cd9e88ebd6e8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s574094 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.574094
+EIP=0x80863f0
+seen at seed=574561 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.574561 file_md5=e4582691d5036320429beee84bb041a1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s574561 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.574561
+EIP=0x80863f0
+seen at seed=576034 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.576034 file_md5=6a1a4674c824743ffa12191d28ad3ab4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s576034 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.576034
+EIP=0x80863f0
+seen at seed=579806 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.579806 file_md5=cd33ce39dccd481f27355073c415b202
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s579806 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.579806
+EIP=0x80863f0
+seen at seed=581912 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.581912 file_md5=31aa14854ba22e248c0c166e929654f1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s581912 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.581912
+EIP=0x80863f0
+seen at seed=583056 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.583056 file_md5=a73ae1a89ce41155458c48ee1de5dbb5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s583056 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.583056
+EIP=0x80863f0
+seen at seed=584034 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.584034 file_md5=8b44c2d973557bbd7160f9949fb65a6b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s584034 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.584034
+EIP=0x80863f0
+seen at seed=584107 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.584107 file_md5=1eb821b831cd66abae6e651c6c68417b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s584107 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.584107
+EIP=0x80863f0
+seen at seed=585262 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.585262 file_md5=63af668527e4a009fa1d381a54fab91b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s585262 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.585262
+EIP=0x80863f0
+seen at seed=585361 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.585361 file_md5=ad1738dcf451619959c21db59824f2e4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s585361 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.585361
+EIP=0x80863f0
+seen at seed=589692 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.589692 file_md5=0e837da87459a0923341602f01573806
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s589692 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.589692
+EIP=0x80863f0
+seen at seed=591414 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.591414 file_md5=5759b72a7a2bbc7221ea9e1b7880feca
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s591414 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.591414
+EIP=0x80863f0
+seen at seed=591489 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.591489 file_md5=24cd2146f0b1d0245aa0c1d93386dcd9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s591489 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.591489
+EIP=0x80863f0
+seen at seed=591621 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.591621 file_md5=2f1bb970df45a4cbef2334011405e33d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s591621 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.591621
+EIP=0x80863f0
+seen at seed=596751 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.596751 file_md5=27a6242a158962feef9ad1c25576ff62
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s596751 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.596751
+EIP=0x80863f0
+seen at seed=599687 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.599687 file_md5=6d6fa91fd5d3b0bcd0bfabe431b9e246
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s599687 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.599687
+EIP=0x80863f0
+seen at seed=599911 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.599911 file_md5=3157694dd01531d7f7c0ae96b505f2ce
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s599911 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.599911
+EIP=0x80863f0
+seen at seed=600274 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.600274 file_md5=e1a431f8a37dd1995023792202e46972
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s600274 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.600274
+EIP=0x80863f0
+seen at seed=601403 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.601403 file_md5=a26cc0f71f07d85e7faaac1b6170db86
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s601403 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.601403
+EIP=0x80863f0
+seen at seed=601681 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.601681 file_md5=f7da5963fce383430ba390732488d7a1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s601681 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.601681
+EIP=0x80863f0
+seen at seed=606273 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.606273 file_md5=27e41524fb15344273de4a63a534c097
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s606273 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.606273
+EIP=0x80863f0
+seen at seed=608455 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.608455 file_md5=0ffe53cd8d162b7fc691769883c95fe8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s608455 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.608455
+EIP=0x80863f0
+seen at seed=608503 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.608503 file_md5=6cc971150c97abdcf84c58f3b695c458
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s608503 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.608503
+EIP=0x80863f0
+seen at seed=608828 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.608828 file_md5=1666841de35a2c999c344f4cda8f5ed9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s608828 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.608828
+EIP=0x80863f0
+seen at seed=609245 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.609245 file_md5=de621803d9131a965021ec81547866e1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s609245 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.609245
+EIP=0x80863f0
+seen at seed=611340 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.611340 file_md5=efd9cf623463f06ee51fd5bf313e46a3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s611340 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.611340
+EIP=0x80863f0
+seen at seed=611444 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.611444 file_md5=b30511cdde26107f61b09401a03fc052
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s611444 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.611444
+EIP=0x80863f0
+seen at seed=612783 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.612783 file_md5=7432648da3b9c43bf22a86be6141fbf5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s612783 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.612783
+EIP=0x80863f0
+seen at seed=613038 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.613038 file_md5=58dd5463871e53aab104170857b3c235
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s613038 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.613038
+EIP=0x80863f0
+seen at seed=613822 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.613822 file_md5=191c984015ce6ce5b9230d59b1cb2441
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s613822 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.613822
+EIP=0x80863f0
+seen at seed=614743 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.614743 file_md5=197eaeaf2ccff178794ab87d2ea97f96
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s614743 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.614743
+EIP=0x80863f0
+seen at seed=615538 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.615538 file_md5=aa62187dd394a1436fcd80370d96f3c7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s615538 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.615538
+EIP=0x80863f0
+seen at seed=617055 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.617055 file_md5=586d0a87224858c793096f9b5a5e61ce
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s617055 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.617055
+EIP=0x80863f0
+seen at seed=622352 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.622352 file_md5=478d83d150933213ce7268a8aefab938
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s622352 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.622352
+EIP=0x80863f0
+seen at seed=622648 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.622648 file_md5=468b370e78397da5178340508f4a66c0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s622648 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.622648
+EIP=0x80863f0
+seen at seed=624467 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.624467 file_md5=d8b22c81fa130e0c9aec02ab199f1caf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s624467 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.624467
+EIP=0x80863f0
+seen at seed=634690 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.634690 file_md5=94626a80d4a4474a88e40bc9f376bed9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s634690 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.634690
+EIP=0x80863f0
+seen at seed=634933 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.634933 file_md5=15615a1a33e82a8ba69b9963eca5e3cb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s634933 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.634933
+EIP=0x80863f0
+seen at seed=637464 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.637464 file_md5=6417471776dc5f19957a69a90a7eea7e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s637464 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.637464
+EIP=0x80863f0
+seen at seed=637562 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.637562 file_md5=25131fb0008b1cfd0fb10d6b5f3c9360
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s637562 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.637562
+EIP=0x80863f0
+seen at seed=640376 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.640376 file_md5=00a4447b2536d0abb65a6fe2c7296c60
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s640376 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.640376
+EIP=0x80863f0
+seen at seed=641244 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.641244 file_md5=e99c00a4901a3157f0c5da8abbd8940d
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s641244 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.641244
+EIP=0x80863f0
+seen at seed=643689 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.643689 file_md5=688deae486248079665361fc95d56602
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s643689 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.643689
+EIP=0x80863f0
+seen at seed=645360 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.645360 file_md5=d6cb5cd5ddf4db0bfe9289c67137b1f4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s645360 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.645360
+EIP=0x80863f0
+seen at seed=647246 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.647246 file_md5=60df3fec38780f36e0189d7211e35c94
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s647246 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.647246
+EIP=0x80863f0
+seen at seed=648288 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.648288 file_md5=083229d4739684bf712aecd127bddbc1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s648288 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.648288
+EIP=0x80863f0
+seen at seed=652449 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.652449 file_md5=b930039ca4bcdb868881019cdc943de6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s652449 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.652449
+EIP=0x80863f0
+seen at seed=656381 range=0.000169389:0.000274076 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.656381 file_md5=30e6896dc4cd89f791e17c71bd21f7a7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s656381 -r0.000169389:0.000274076 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.656381
+EIP=0x80863f0
+seen at seed=659550 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.659550 file_md5=22f9f4ed78acfaaf014192b55536a7d3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s659550 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.659550
+EIP=0x80863f0
+seen at seed=666047 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666047 file_md5=e2eb6927c4ec3bbb15bf9e9461e5e9a5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s666047 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666047
+EIP=0x80863f0
+seen at seed=666145 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666145 file_md5=20ada9ea3ce0f7c24bf0232d68b2aecb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s666145 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666145
+EIP=0x80863f0
+seen at seed=666289 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666289 file_md5=ceb9cee8b3052c229fee296a946280b3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s666289 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666289
+EIP=0x80863f0
+seen at seed=666583 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666583 file_md5=7303928268df13b60b4336aa9d5d9032
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s666583 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666583
+EIP=0x80863f0
+seen at seed=666737 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666737 file_md5=5d903cf4189d423ff5e28f82bae6db61
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s666737 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.666737
+EIP=0x80863f0
+seen at seed=668120 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.668120 file_md5=9aef8ac2ec940b53012c8514a5308dd9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s668120 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.668120
+EIP=0x80863f0
+seen at seed=668638 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.668638 file_md5=9059bea26c65c32bf8c6878cd3f783bd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s668638 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.668638
+EIP=0x80863f0
+seen at seed=670644 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.670644 file_md5=d80321a65a32f17f518611ad5915e579
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s670644 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.670644
+EIP=0x80863f0
+seen at seed=670838 range=0.000443465:0.000717541 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.670838 file_md5=3ec59a57c5f07e568fa6cd71d7481ea4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s670838 -r0.000443465:0.000717541 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.670838
+EIP=0x80863f0
+seen at seed=671757 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.671757 file_md5=dd8ee35937fa93a30bcce4afe4018d44
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s671757 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.671757
+EIP=0x80863f0
+seen at seed=672047 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.672047 file_md5=91bb872cf6b8139ec1df7fdc2b4ad955
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s672047 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.672047
+EIP=0x80863f0
+seen at seed=676192 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.676192 file_md5=6e06ca123ec62295ff98a182f776a747
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s676192 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.676192
+EIP=0x80863f0
+seen at seed=678958 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.678958 file_md5=5a6b0e85ffc795744d1f7e8e072e5605
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s678958 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.678958
+EIP=0x80863f0
+seen at seed=678961 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.678961 file_md5=5420e427c212bfae9519423c821c396b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s678961 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.678961
+EIP=0x80863f0
+seen at seed=680217 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.680217 file_md5=8cff9c4370c6171d3124c6029d26bb50
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s680217 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.680217
+EIP=0x80863f0
+seen at seed=690120 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.690120 file_md5=0db922d456a4b2d07327a0e3d90cfcd3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s690120 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.690120
+EIP=0x80863f0
+seen at seed=690848 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.690848 file_md5=40d70c2e2eb305c6b3be5fca0ebf5376
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s690848 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.690848
+EIP=0x80863f0
+seen at seed=690905 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.690905 file_md5=32e9577d5238752b6566c72e8d73e063
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s690905 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.690905
+EIP=0x80863f0
+seen at seed=691107 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.691107 file_md5=b77c610e3a1e692888ff0454249596d8
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s691107 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.691107
+EIP=0x80863f0
+seen at seed=691178 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.691178 file_md5=7f8b15465f1ea429b44c55b84c3a7f53
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s691178 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.691178
+EIP=0x80863f0
+seen at seed=694361 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.694361 file_md5=402488495ebbd2cda13341d086d210c2
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s694361 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.694361
+EIP=0x80863f0
+seen at seed=695787 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.695787 file_md5=a16da838f26d95fb8319c569621072be
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s695787 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.695787
+EIP=0x80863f0
+seen at seed=696119 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.696119 file_md5=07b422cd1377c85b31c62ae5c30b1caf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s696119 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.696119
+EIP=0x80863f0
+seen at seed=697711 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.697711 file_md5=02b89530fe7e076fcb41700e645daf09
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s697711 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.697711
+EIP=0x80863f0
+seen at seed=697997 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.697997 file_md5=06ec8c38dc73ba73f70107a6ee039851
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s697997 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.697997
+EIP=0x80863f0
+seen at seed=700304 range=0.0208334:0.0337092 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.700304 file_md5=12c8dccf2ba4b47e8e14461617fa4b36
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s700304 -r0.0208334:0.0337092 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.700304
+EIP=0x80863f0
+seen at seed=702892 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.702892 file_md5=b84673722288d09384fa092db129c4c6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s702892 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.702892
+EIP=0x80863f0
+seen at seed=703543 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.703543 file_md5=da4d6c8e712dd7768005002234f7d45c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s703543 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.703543
+EIP=0x80863f0
+seen at seed=703795 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.703795 file_md5=5160f1448932e7438ecd5a13cdf559a6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s703795 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.703795
+EIP=0x80863f0
+seen at seed=704128 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.704128 file_md5=7f981b5b42a61d9e6891ca6c98e2aeab
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s704128 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.704128
+EIP=0x80863f0
+seen at seed=712155 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.712155 file_md5=cc4288075c293702f13c53e1e7188a72
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s712155 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.712155
+EIP=0x80863f0
+seen at seed=716928 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.716928 file_md5=808977399ce5b031c15dec3132bdb943
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s716928 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.716928
+EIP=0x80863f0
+seen at seed=719403 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.719403 file_md5=fe111693a289fae7b38804351ecd7498
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s719403 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.719403
+EIP=0x80863f0
+seen at seed=720471 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.720471 file_md5=af870ae8cdfd9442873115fc73cb70fe
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s720471 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.720471
+EIP=0x80863f0
+seen at seed=720744 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.720744 file_md5=d6cb0d5df3aed026347fe4b59cc72e32
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s720744 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.720744
+EIP=0x80863f0
+seen at seed=721755 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.721755 file_md5=1e64c723b3a4c423e0c0aad94f7e0af7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s721755 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.721755
+EIP=0x80863f0
+seen at seed=725841 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.725841 file_md5=5b3f1f5caa10904550ab7c827d407c35
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s725841 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.725841
+EIP=0x80863f0
+seen at seed=727263 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.727263 file_md5=696fd50deef2d7e066b94c39606481e0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s727263 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.727263
+EIP=0x80863f0
+seen at seed=727738 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.727738 file_md5=fe319f08c3e404a06b4e752413031c1b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s727738 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.727738
+EIP=0x80863f0
+seen at seed=730064 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.730064 file_md5=e0e30f28d8cdeb87f08cf0465ae2b60b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s730064 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.730064
+EIP=0x80863f0
+seen at seed=732862 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.732862 file_md5=fb3b0191848488416a7d1f73e77776eb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s732862 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.732862
+EIP=0x80863f0
+seen at seed=733101 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.733101 file_md5=6de35e84402367236b93e3a4e3f420f2
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s733101 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.733101
+EIP=0x80863f0
+seen at seed=738050 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.738050 file_md5=adb85c00cdb7afe7152ade9af8977866
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s738050 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.738050
+EIP=0x80863f0
+seen at seed=738188 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.738188 file_md5=9f4a3b8e85827a1bce65ccca39a2f9a5
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s738188 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.738188
+EIP=0x80863f0
+seen at seed=739278 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.739278 file_md5=2df5f4a2da41b2c4ed05949d44aff908
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s739278 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.739278
+EIP=0x80863f0
+seen at seed=741392 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.741392 file_md5=2d4a149597651c67e107e2894d28a2bd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s741392 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.741392
+EIP=0x80863f0
+seen at seed=742455 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.742455 file_md5=c3c98ce16ca9566a849f5bea54a206ff
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s742455 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.742455
+EIP=0x80863f0
+seen at seed=743699 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.743699 file_md5=07488a4be5581cd857d99203e2b6f775
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s743699 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.743699
+EIP=0x80863f0
+seen at seed=743870 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.743870 file_md5=cf58ad081f9ca204939b5ef5ea10c129
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s743870 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.743870
+EIP=0x80863f0
+seen at seed=744877 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.744877 file_md5=3a7aca371bd8f3049e73d187af05342c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s744877 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.744877
+EIP=0x80863f0
+seen at seed=747288 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.747288 file_md5=6c734cd54aba535d43bb3f6b45a507da
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s747288 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.747288
+EIP=0x80863f0
+seen at seed=747304 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.747304 file_md5=219a5bdd2e0c4ce6bb266344af0d38f1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s747304 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.747304
+EIP=0x80863f0
+seen at seed=748782 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.748782 file_md5=cb6f320833cbd60aa045210ffea77d94
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s748782 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.748782
+EIP=0x80863f0
+seen at seed=748986 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.748986 file_md5=9a09b7552b59ec3360eb424d214b6a57
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s748986 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.748986
+EIP=0x80863f0
+seen at seed=752017 range=3.99872e-05:6.47007e-05 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.752017 file_md5=6707e96048474975ed40205990d816cf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s752017 -r3.99872e-05:6.47007e-05 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.752017
+EIP=0x80863f0
+seen at seed=755696 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.755696 file_md5=a281a63dedb42b2e0eb583a83f7695f9
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s755696 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.755696
+EIP=0x80863f0
+seen at seed=755740 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.755740 file_md5=dde3cd6cd485ed43393befabf91cdb7a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s755740 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.755740
+EIP=0x80863f0
+seen at seed=756137 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.756137 file_md5=d29090258909f690f27ca849a0c304fc
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s756137 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.756137
+EIP=0x80863f0
+seen at seed=758735 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.758735 file_md5=7698be0cc90506e774f5a7ee0a4fca8e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s758735 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.758735
+EIP=0x80863f0
+seen at seed=761200 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.761200 file_md5=435bf73fc177d8b0de83ad0db3fcb181
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s761200 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.761200
+EIP=0x80863f0
+seen at seed=761614 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.761614 file_md5=a93a5b1adb4b3008b488b39fd0dee065
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s761614 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.761614
+EIP=0x80863f0
+seen at seed=764280 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.764280 file_md5=0a9edb666bb9c47326a398d332fadb74
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s764280 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.764280
+EIP=0x80863f0
+seen at seed=768330 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.768330 file_md5=d4b02d30bd54d1ddac833a8706ebbacd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s768330 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.768330
+EIP=0x80863f0
+seen at seed=770830 range=0.000274076:0.000443465 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.770830 file_md5=417c09e0eb6f892036fb3e2999a0a7bb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s770830 -r0.000274076:0.000443465 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.770830
+EIP=0x80863f0
+seen at seed=773811 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.773811 file_md5=22f6761bce632b0653f45d02744f8e58
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s773811 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.773811
+EIP=0x80863f0
+seen at seed=773865 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.773865 file_md5=8914046899d2b985a3ae8ab28ce2b858
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s773865 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.773865
+EIP=0x80863f0
+seen at seed=774253 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774253 file_md5=a65acc5dbaca98b72ef389a846310efb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s774253 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774253
+EIP=0x80863f0
+seen at seed=774380 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774380 file_md5=8696c239b7a9d4d8b987874b58eba6bd
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s774380 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774380
+EIP=0x80863f0
+seen at seed=774478 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774478 file_md5=1943d8a0c74488f213e46479215e7aad
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s774478 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774478
+EIP=0x80863f0
+seen at seed=774995 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774995 file_md5=ef587fdf048b8ae199f0b0f485dd1596
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s774995 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.774995
+EIP=0x80863f0
+seen at seed=780972 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.780972 file_md5=b6329a2670e1627c063c0dbb6bc841d1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s780972 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.780972
+EIP=0x80863f0
+seen at seed=781105 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.781105 file_md5=b186c9d2074828f99677ab95f4863d08
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s781105 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.781105
+EIP=0x80863f0
+seen at seed=787302 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.787302 file_md5=b3718e7cc98fbc9c62c5f7e059e2f921
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s787302 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.787302
+EIP=0x80863f0
+seen at seed=787370 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.787370 file_md5=f5dee466b4a33e64f87fcc2229d919c6
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s787370 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.787370
+EIP=0x80863f0
+seen at seed=789866 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.789866 file_md5=5a1fca8e0bf37e2393558876b65652ca
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s789866 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.789866
+EIP=0x80863f0
+seen at seed=790017 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.790017 file_md5=8d094f3b061bb30f032eb5beba9cc1fc
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s790017 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.790017
+EIP=0x80863f0
+seen at seed=790018 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.790018 file_md5=e218351cae92e4d08251cf5d42639e67
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s790018 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.790018
+EIP=0x80863f0
+seen at seed=790367 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.790367 file_md5=2b3899b715af66abd18fe5d7909a436e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s790367 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.790367
+EIP=0x80863f0
+seen at seed=792702 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.792702 file_md5=22c294d90c4aa42f64ccea5188f78e98
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s792702 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.792702
+EIP=0x80863f0
+seen at seed=793009 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.793009 file_md5=d2d6d7c59c397b22e7dfbebdbb0709bb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s793009 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.793009
+EIP=0x80863f0
+seen at seed=793146 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.793146 file_md5=be35d6265c5c9ae07c4767cab2026e78
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s793146 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.793146
+EIP=0x80863f0
+seen at seed=795223 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.795223 file_md5=998702d30bc75941760ad9d175d2d5d0
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s795223 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.795223
+EIP=0x80863f0
+seen at seed=797907 range=0.00795765:0.0128758 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.797907 file_md5=b7ba9c849c03c05bd833cc53eb6c56b1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s797907 -r0.00795765:0.0128758 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.797907
+EIP=0x80863f0
+seen at seed=800309 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.800309 file_md5=e64a294f368b69a85900b59d56dd1300
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s800309 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.800309
+EIP=0x80863f0
+seen at seed=800414 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.800414 file_md5=7c6bc672fd7aebe5323c8aa9c1c5e157
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s800414 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.800414
+EIP=0x80863f0
+seen at seed=800441 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.800441 file_md5=70510d82d2e1f77f05e62e3b42274373
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s800441 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.800441
+EIP=0x80863f0
+seen at seed=801069 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.801069 file_md5=86f22229f6e39a70af18133ec3886bd4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s801069 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.801069
+EIP=0x80863f0
+seen at seed=804667 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.804667 file_md5=444893fcba3c9d14c5e2b1f6193cdbee
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s804667 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.804667
+EIP=0x80863f0
+seen at seed=804698 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.804698 file_md5=f9ce21e6207397062bc346678bf78c5b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s804698 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.804698
+EIP=0x80863f0
+seen at seed=804906 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.804906 file_md5=2f54669ddd1d0050f39255b215b2f472
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s804906 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.804906
+EIP=0x80863f0
+seen at seed=806185 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.806185 file_md5=83f2c4d5b71fffd7f2b05dbaeb2e38fc
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s806185 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.806185
+EIP=0x80863f0
+seen at seed=806580 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.806580 file_md5=ff85ba04675cd30b12e8bfed6bf56c7e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s806580 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.806580
+EIP=0x80863f0
+seen at seed=807236 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807236 file_md5=e0e21ddc685adc7929b2223b40e93059
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s807236 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807236
+EIP=0x80863f0
+seen at seed=807253 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807253 file_md5=7ace226075f5f97d6aa1f8d079757eb7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s807253 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807253
+EIP=0x80863f0
+seen at seed=807789 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807789 file_md5=3a44d1cc882d0cabd008e7943a445959
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s807789 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807789
+EIP=0x80863f0
+seen at seed=807971 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807971 file_md5=7e335bb5e2fdcfdf53dc6ffa5ac57101
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s807971 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.807971
+EIP=0x80863f0
+seen at seed=808050 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.808050 file_md5=4edee2b1afb1f24992f61daf95938ddf
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s808050 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.808050
+EIP=0x80863f0
+seen at seed=810516 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.810516 file_md5=6e3c03b4f9f68a87f4a5be3b823ab144
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s810516 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.810516
+EIP=0x80863f0
+seen at seed=812307 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.812307 file_md5=4c4ac623fedb5bb1c69fee32b44a752c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s812307 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.812307
+EIP=0x80863f0
+seen at seed=812992 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.812992 file_md5=7a51f47a98645e0b2cd5ec0d87dca977
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s812992 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.812992
+EIP=0x80863f0
+seen at seed=816436 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.816436 file_md5=2db4a31e23e577ec2cd6d3deb6e8b06a
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s816436 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.816436
+EIP=0x80863f0
+seen at seed=820665 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.820665 file_md5=c0301fff09a4b864a01c4fb899bd1af4
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s820665 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.820665
+EIP=0x80863f0
+seen at seed=821066 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.821066 file_md5=3bf64ee816164f4651d520a8607338bb
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s821066 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.821066
+EIP=0x80863f0
+seen at seed=821139 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.821139 file_md5=d72c0b84d508104b3086d96c33dcd47c
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s821139 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.821139
+EIP=0x80863f0
+seen at seed=824700 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.824700 file_md5=40c539c76b527975e499009d85f8a9f2
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s824700 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.824700
+EIP=0x80863f0
+seen at seed=826614 range=0.000717541:0.00116101 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.826614 file_md5=b12b1803b1feb9bf0e5bdacecdd43ce3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s826614 -r0.000717541:0.00116101 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.826614
+EIP=0x80863f0
+seen at seed=827226 range=0.00187855:0.00303955 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.827226 file_md5=aa34b9da0f4f13cb60b18df505582b1b
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s827226 -r0.00187855:0.00303955 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.827226
+EIP=0x80863f0
+seen at seed=830070 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.830070 file_md5=bdad897238b4ef78d4356c3304e94bf7
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s830070 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.830070
+EIP=0x80863f0
+seen at seed=831221 range=0.00116101:0.00187855 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.831221 file_md5=6a63a1e814b01066cb1824ceeac73789
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s831221 -r0.00116101:0.00187855 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.831221
+EIP=0x80863f0
+seen at seed=833827 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.833827 file_md5=e6b34baeab682d17378193082c1f91f1
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s833827 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.833827
+EIP=0x80863f0
+seen at seed=834725 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.834725 file_md5=4224044fecb02df2ceaf98ba4faab902
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s834725 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.834725
+EIP=0x80863f0
+seen at seed=839469 range=0.0128758:0.0208334 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.839469 file_md5=8c8deda675218ffd3f7d065ced01753e
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s839469 -r0.0128758:0.0208334 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.839469
+EIP=0x80863f0
+seen at seed=841150 range=0.00303955:0.0049181 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.841150 file_md5=d20dc25c8327c8280dee740f2a5a9866
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s841150 -r0.00303955:0.0049181 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.841150
+EIP=0x80863f0
+seen at seed=841589 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.841589 file_md5=4171560522fb78d2fe4f6a2b388f89d3
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s841589 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.841589
+EIP=0x80863f0
+seen at seed=842948 range=0.0049181:0.00795765 file=/home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.842948 file_md5=a7ac227343e821215dfde00fff3d6c03
+Command: cat /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp | zzuf -s842948 -r0.0049181:0.00795765 > /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.842948
+EIP=0x80863f0

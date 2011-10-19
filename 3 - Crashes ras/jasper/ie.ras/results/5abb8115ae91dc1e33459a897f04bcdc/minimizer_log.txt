@@ -1,0 +1,12 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.ras/ie.ras.858 -> /mnt/hgfs/fuzz/seeds/ie.ras
+	confidence level: 0.99900
+	starting Hamming Distance is 12
+Attempting to minimize crash(es) [5abb8115ae91dc1e33459a897f04bcdc]
+start=12 min=12 target_guess=1 curr=7 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=12 min=7 target_guess=1 curr=4 chance=0.42857 miss=0/9 total_misses=0/2 u_crashes=1
+start=12 min=7 target_guess=1 curr=3 chance=0.42857 miss=1/9 total_misses=1/3 u_crashes=2
+start=12 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=1/4 u_crashes=2
+start=12 min=1 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=1/4 u_crashes=2
+We were looking for [5abb8115ae91dc1e33459a897f04bcdc] ...
+	...and found False	1 times
+	...and found 5abb8115ae91dc1e33459a897f04bcdc	3 times

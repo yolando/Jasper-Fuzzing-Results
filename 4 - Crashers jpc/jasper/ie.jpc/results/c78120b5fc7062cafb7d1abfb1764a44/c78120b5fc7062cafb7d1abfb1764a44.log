@@ -1,0 +1,8 @@
+Getting STDERR for c78120b5fc7062cafb7d1abfb1764a44
+Valgrind for c78120b5fc7062cafb7d1abfb1764a44
+Minimizing from /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.276913
+bitwise_hd=4
+bytewise_hd=3
+seen at seed=276913 range=0.0157041:0.0254098 file=/home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.276913 file_md5=2d122b119244a0a8e3a2490928dc2d8a
+Command: cat /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc | zzuf -s276913 -r0.0157041:0.0254098 > /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.276913
+EIP=0xb7fe2424

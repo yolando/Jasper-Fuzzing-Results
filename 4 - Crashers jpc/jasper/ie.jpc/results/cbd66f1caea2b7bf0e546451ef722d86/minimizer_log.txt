@@ -1,0 +1,30 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.30983 -> /mnt/hgfs/fuzz/seeds/ie.jpc
+	confidence level: 0.99900
+	starting Hamming Distance is 393
+Attempting to minimize crash(es) [cbd66f1caea2b7bf0e546451ef722d86]
+start=393 min=393 target_guess=1 curr=198 chance=0.49873 miss=0/10 total_misses=0/1 u_crashes=0
+start=393 min=393 target_guess=1 curr=184 chance=0.49873 miss=1/10 total_misses=1/2 u_crashes=1
+start=393 min=184 target_guess=1 curr=75 chance=0.50000 miss=0/10 total_misses=1/3 u_crashes=2
+start=393 min=184 target_guess=1 curr=89 chance=0.50000 miss=1/10 total_misses=2/4 u_crashes=3
+start=393 min=89 target_guess=1 curr=46 chance=0.49438 miss=0/10 total_misses=2/5 u_crashes=3
+start=393 min=46 target_guess=1 curr=20 chance=0.50000 miss=0/10 total_misses=2/6 u_crashes=3
+start=393 min=20 target_guess=1 curr=9 chance=0.50000 miss=0/10 total_misses=2/7 u_crashes=3
+start=393 min=20 target_guess=1 curr=11 chance=0.50000 miss=1/10 total_misses=3/8 u_crashes=3
+start=393 min=20 target_guess=1 curr=12 chance=0.50000 miss=2/10 total_misses=4/9 u_crashes=3
+start=393 min=12 target_guess=1 curr=6 chance=0.50000 miss=0/10 total_misses=4/10 u_crashes=3
+start=393 min=12 target_guess=1 curr=10 chance=0.50000 miss=1/10 total_misses=5/11 u_crashes=3
+start=393 min=10 target_guess=1 curr=7 chance=0.50000 miss=0/10 total_misses=5/12 u_crashes=3
+start=393 min=7 target_guess=1 curr=4 chance=0.42857 miss=0/9 total_misses=5/13 u_crashes=3
+start=393 min=7 target_guess=1 curr=4 chance=0.42857 miss=1/9 total_misses=6/14 u_crashes=3
+start=393 min=4 target_guess=1 curr=3 chance=0.50000 miss=0/10 total_misses=6/15 u_crashes=3
+start=393 min=4 target_guess=1 curr=3 chance=0.50000 miss=1/10 total_misses=7/16 u_crashes=3
+start=393 min=3 target_guess=1 curr=2 chance=0.66667 miss=0/18 total_misses=7/17 u_crashes=3
+start=393 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=7/18 u_crashes=3
+start=393 min=2 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=8/19 u_crashes=3
+Exhaustively searched all files shorter than 2
+start=393 min=2 target_guess=1 curr=1 chance=0.50000 miss=2/10 total_misses=9/20 u_crashes=4
+We were looking for [cbd66f1caea2b7bf0e546451ef722d86] ...
+	...and found False	1 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	2 times
+	...and found 391994a77af23982aa804e48326affb4	6 times
+	...and found cbd66f1caea2b7bf0e546451ef722d86	10 times

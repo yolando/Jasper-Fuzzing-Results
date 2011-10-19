@@ -1,0 +1,10 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.5151 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 2
+Attempting to minimize crash(es) [389158d48a4505e95eae5099e8db4c29]
+start=2 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=2 min=2 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=1/2 u_crashes=1
+start=2 min=1 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=1/2 u_crashes=2
+We were looking for [389158d48a4505e95eae5099e8db4c29] ...
+	...and found False	1 times
+	...and found 389158d48a4505e95eae5099e8db4c29	1 times

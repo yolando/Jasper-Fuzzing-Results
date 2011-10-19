@@ -1,0 +1,70 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.57152 -> /mnt/hgfs/fuzz/seeds/ie.jpc
+	confidence level: 0.99900
+	starting Hamming Distance is 314
+Attempting to minimize crash(es) [f7aff93d785c0e78c9de9755d5296eca]
+start=314 min=314 target_guess=1 curr=161 chance=0.50000 miss=0/10 total_misses=0/1 u_crashes=0
+start=314 min=314 target_guess=1 curr=172 chance=0.50000 miss=1/10 total_misses=1/2 u_crashes=1
+start=314 min=314 target_guess=1 curr=156 chance=0.50000 miss=2/10 total_misses=2/3 u_crashes=1
+start=314 min=314 target_guess=1 curr=154 chance=0.50000 miss=3/10 total_misses=3/4 u_crashes=1
+start=314 min=314 target_guess=1 curr=162 chance=0.50000 miss=4/10 total_misses=4/5 u_crashes=2
+start=314 min=314 target_guess=1 curr=163 chance=0.50000 miss=5/10 total_misses=5/6 u_crashes=3
+start=314 min=314 target_guess=1 curr=161 chance=0.50000 miss=6/10 total_misses=6/7 u_crashes=4
+start=314 min=314 target_guess=1 curr=152 chance=0.50000 miss=7/10 total_misses=7/8 u_crashes=4
+start=314 min=314 target_guess=1 curr=150 chance=0.50000 miss=8/10 total_misses=8/9 u_crashes=4
+start=314 min=314 target_guess=1 curr=167 chance=0.50000 miss=9/10 total_misses=9/10 u_crashes=4
+start=314 min=314 target_guess=1 curr=171 chance=0.50000 miss=10/10 total_misses=10/11 u_crashes=5
+start=314 min=171 target_guess=1 curr=90 chance=0.49708 miss=0/10 total_misses=10/12 u_crashes=6
+start=314 min=171 target_guess=1 curr=81 chance=0.49708 miss=1/10 total_misses=11/13 u_crashes=6
+start=314 min=171 target_guess=1 curr=79 chance=0.49708 miss=2/10 total_misses=12/14 u_crashes=6
+start=314 min=171 target_guess=1 curr=89 chance=0.49708 miss=3/10 total_misses=13/15 u_crashes=6
+start=314 min=171 target_guess=1 curr=81 chance=0.49708 miss=4/10 total_misses=14/16 u_crashes=6
+start=314 min=171 target_guess=1 curr=75 chance=0.49708 miss=5/10 total_misses=15/17 u_crashes=6
+start=314 min=171 target_guess=1 curr=86 chance=0.49708 miss=6/10 total_misses=16/18 u_crashes=6
+start=314 min=86 target_guess=1 curr=52 chance=0.50000 miss=0/10 total_misses=16/19 u_crashes=6
+start=314 min=86 target_guess=1 curr=39 chance=0.50000 miss=1/10 total_misses=17/20 u_crashes=6
+start=314 min=86 target_guess=1 curr=43 chance=0.50000 miss=2/10 total_misses=18/21 u_crashes=6
+start=314 min=43 target_guess=1 curr=25 chance=0.51163 miss=0/11 total_misses=18/22 u_crashes=6
+start=314 min=43 target_guess=1 curr=19 chance=0.51163 miss=1/11 total_misses=19/23 u_crashes=6
+start=314 min=19 target_guess=1 curr=11 chance=0.52632 miss=0/11 total_misses=19/24 u_crashes=6
+start=314 min=11 target_guess=1 curr=10 chance=0.45455 miss=0/9 total_misses=19/25 u_crashes=6
+start=314 min=11 target_guess=1 curr=5 chance=0.45455 miss=1/9 total_misses=20/26 u_crashes=6
+start=314 min=11 target_guess=1 curr=8 chance=0.45455 miss=2/9 total_misses=21/27 u_crashes=7
+start=314 min=11 target_guess=1 curr=8 chance=0.45455 miss=3/9 total_misses=22/28 u_crashes=7
+start=314 min=11 target_guess=1 curr=9 chance=0.45455 miss=4/9 total_misses=23/29 u_crashes=7
+start=314 min=9 target_guess=1 curr=4 chance=0.44444 miss=0/9 total_misses=23/30 u_crashes=7
+start=314 min=9 target_guess=1 curr=5 chance=0.44444 miss=1/9 total_misses=24/31 u_crashes=7
+start=314 min=9 target_guess=1 curr=4 chance=0.44444 miss=2/9 total_misses=25/32 u_crashes=7
+start=314 min=9 target_guess=1 curr=4 chance=0.44444 miss=3/9 total_misses=26/33 u_crashes=7
+start=314 min=4 target_guess=1 curr=3 chance=0.50000 miss=0/10 total_misses=26/34 u_crashes=7
+start=314 min=4 target_guess=1 curr=3 chance=0.50000 miss=1/10 total_misses=27/35 u_crashes=7
+start=314 min=4 target_guess=1 curr=2 chance=0.50000 miss=2/10 total_misses=28/36 u_crashes=7
+start=314 min=4 target_guess=1 curr=1 chance=0.50000 miss=3/10 total_misses=29/37 u_crashes=7
+start=314 min=4 target_guess=1 curr=1 chance=0.50000 miss=4/10 total_misses=30/38 u_crashes=7
+start=314 min=4 target_guess=1 curr=2 chance=0.50000 miss=5/10 total_misses=31/39 u_crashes=7
+start=314 min=4 target_guess=1 curr=2 chance=0.50000 miss=6/10 total_misses=32/40 u_crashes=7
+start=314 min=4 target_guess=1 curr=2 chance=0.50000 miss=7/10 total_misses=33/41 u_crashes=7
+start=314 min=4 target_guess=1 curr=2 chance=0.50000 miss=8/10 total_misses=34/42 u_crashes=7
+start=314 min=4 target_guess=1 curr=3 chance=0.50000 miss=9/10 total_misses=35/43 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=0/18 total_misses=35/44 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=1/18 total_misses=36/45 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=2/18 total_misses=37/46 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=3/18 total_misses=38/47 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=4/18 total_misses=39/48 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=5/18 total_misses=40/49 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=6/18 total_misses=41/50 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=7/18 total_misses=42/51 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=8/18 total_misses=43/52 u_crashes=7
+start=314 min=3 target_guess=1 curr=1 chance=0.66667 miss=9/18 total_misses=44/53 u_crashes=7
+start=314 min=3 target_guess=1 curr=2 chance=0.66667 miss=10/18 total_misses=45/54 u_crashes=7
+start=314 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=45/55 u_crashes=7
+start=314 min=2 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=46/56 u_crashes=7
+Exhaustively searched all files shorter than 2
+start=314 min=2 target_guess=1 curr=1 chance=0.50000 miss=2/10 total_misses=47/57 u_crashes=7
+We were looking for [f7aff93d785c0e78c9de9755d5296eca] ...
+	...and found False	5 times
+	...and found 01d3078f1119a259b41a002bdfaf90b1	10 times
+	...and found e9a37d7a5acdaed752529df709ca4785	1 times
+	...and found f7aff93d785c0e78c9de9755d5296eca	9 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	8 times
+	...and found 391994a77af23982aa804e48326affb4	9 times
+	...and found 307f9bea6adbdafe59015e6475479eb0	1 times

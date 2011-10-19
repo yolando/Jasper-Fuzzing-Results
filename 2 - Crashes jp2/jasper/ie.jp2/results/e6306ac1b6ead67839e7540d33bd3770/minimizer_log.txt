@@ -1,0 +1,39 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.12340 -> /mnt/hgfs/fuzz/seeds/ie.jp2
+	confidence level: 0.99900
+	starting Hamming Distance is 19
+Attempting to minimize crash(es) [e6306ac1b6ead67839e7540d33bd3770]
+start=19 min=19 target_guess=1 curr=7 chance=0.52632 miss=0/11 total_misses=0/1 u_crashes=0
+start=19 min=19 target_guess=1 curr=9 chance=0.52632 miss=1/11 total_misses=1/2 u_crashes=1
+start=19 min=19 target_guess=1 curr=9 chance=0.52632 miss=2/11 total_misses=2/3 u_crashes=1
+start=19 min=19 target_guess=1 curr=10 chance=0.52632 miss=3/11 total_misses=3/4 u_crashes=1
+start=19 min=19 target_guess=1 curr=5 chance=0.52632 miss=4/11 total_misses=4/5 u_crashes=1
+start=19 min=19 target_guess=1 curr=9 chance=0.52632 miss=5/11 total_misses=5/6 u_crashes=1
+start=19 min=19 target_guess=1 curr=10 chance=0.52632 miss=6/11 total_misses=6/7 u_crashes=2
+start=19 min=19 target_guess=1 curr=11 chance=0.52632 miss=7/11 total_misses=7/8 u_crashes=2
+start=19 min=19 target_guess=1 curr=10 chance=0.52632 miss=8/11 total_misses=8/9 u_crashes=2
+start=19 min=19 target_guess=1 curr=9 chance=0.52632 miss=9/11 total_misses=9/10 u_crashes=2
+start=19 min=19 target_guess=1 curr=9 chance=0.52632 miss=10/11 total_misses=10/11 u_crashes=2
+start=19 min=19 target_guess=1 curr=8 chance=0.52632 miss=11/11 total_misses=11/12 u_crashes=2
+start=19 min=19 target_guess=2 curr=14 chance=0.31579 miss=0/12 total_misses=12/13 u_crashes=2
+start=19 min=19 target_guess=2 curr=11 chance=0.31579 miss=1/12 total_misses=13/14 u_crashes=2
+start=19 min=11 target_guess=2 curr=7 chance=0.36364 miss=0/15 total_misses=13/15 u_crashes=3
+start=19 min=11 target_guess=2 curr=7 chance=0.36364 miss=1/15 total_misses=14/16 u_crashes=3
+start=19 min=11 target_guess=2 curr=5 chance=0.36364 miss=2/15 total_misses=15/17 u_crashes=3
+start=19 min=11 target_guess=2 curr=7 chance=0.36364 miss=3/15 total_misses=16/18 u_crashes=3
+start=19 min=11 target_guess=2 curr=9 chance=0.36364 miss=4/15 total_misses=17/19 u_crashes=3
+start=19 min=9 target_guess=2 curr=4 chance=0.33333 miss=0/13 total_misses=17/20 u_crashes=3
+start=19 min=9 target_guess=2 curr=6 chance=0.33333 miss=1/13 total_misses=18/21 u_crashes=3
+start=19 min=9 target_guess=2 curr=6 chance=0.33333 miss=2/13 total_misses=19/22 u_crashes=3
+start=19 min=6 target_guess=2 curr=3 chance=0.33333 miss=0/14 total_misses=19/23 u_crashes=3
+start=19 min=6 target_guess=2 curr=3 chance=0.33333 miss=1/14 total_misses=20/24 u_crashes=3
+start=19 min=6 target_guess=2 curr=4 chance=0.33333 miss=2/14 total_misses=21/25 u_crashes=3
+start=19 min=4 target_guess=2 curr=1 chance=0.25000 miss=0/10 total_misses=21/26 u_crashes=3
+start=19 min=4 target_guess=2 curr=3 chance=0.25000 miss=1/10 total_misses=22/27 u_crashes=4
+start=19 min=4 target_guess=2 curr=3 chance=0.25000 miss=2/10 total_misses=23/28 u_crashes=4
+start=19 min=4 target_guess=2 curr=2 chance=0.25000 miss=3/10 total_misses=24/29 u_crashes=4
+start=19 min=2 target_guess=2 curr=2 chance=0.25000 miss=0/10 total_misses=24/29 u_crashes=4
+We were looking for [e6306ac1b6ead67839e7540d33bd3770] ...
+	...and found False	1 times
+	...and found ddc90e873ada28cfe143277216cb1709	11 times
+	...and found 96a3be3cf272e017046d1b2674a52bd3	11 times
+	...and found e6306ac1b6ead67839e7540d33bd3770	5 times

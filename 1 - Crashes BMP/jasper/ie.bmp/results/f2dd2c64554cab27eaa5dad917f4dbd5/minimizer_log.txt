@@ -1,0 +1,25 @@
+Minimizer initialized for /home/fuzz/fuzzing/jasper/ie.bmp/ie.bmp.1820 -> /mnt/hgfs/fuzz/seeds/ie.bmp
+	confidence level: 0.99900
+	starting Hamming Distance is 33
+Attempting to minimize crash(es) [f2dd2c64554cab27eaa5dad917f4dbd5]
+start=33 min=33 target_guess=1 curr=16 chance=0.51515 miss=0/11 total_misses=0/1 u_crashes=0
+start=33 min=33 target_guess=1 curr=12 chance=0.51515 miss=1/11 total_misses=1/2 u_crashes=1
+start=33 min=33 target_guess=1 curr=16 chance=0.51515 miss=2/11 total_misses=2/3 u_crashes=1
+start=33 min=33 target_guess=1 curr=17 chance=0.51515 miss=3/11 total_misses=3/4 u_crashes=1
+start=33 min=33 target_guess=1 curr=16 chance=0.51515 miss=4/11 total_misses=4/5 u_crashes=1
+start=33 min=16 target_guess=1 curr=12 chance=0.50000 miss=0/10 total_misses=4/6 u_crashes=2
+start=33 min=12 target_guess=1 curr=5 chance=0.50000 miss=0/10 total_misses=4/7 u_crashes=2
+start=33 min=5 target_guess=1 curr=1 chance=0.60000 miss=0/14 total_misses=4/8 u_crashes=2
+start=33 min=5 target_guess=1 curr=2 chance=0.60000 miss=1/14 total_misses=5/9 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=0/10 total_misses=5/10 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=1/10 total_misses=6/11 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=2/10 total_misses=7/12 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=3/10 total_misses=8/13 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=4/10 total_misses=9/14 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=5/10 total_misses=10/15 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=6/10 total_misses=11/16 u_crashes=2
+start=33 min=2 target_guess=1 curr=1 chance=0.50000 miss=7/10 total_misses=12/17 u_crashes=2
+start=33 min=1 target_guess=1 curr=1 chance=0.50000 miss=7/10 total_misses=12/17 u_crashes=2
+We were looking for [f2dd2c64554cab27eaa5dad917f4dbd5] ...
+	...and found False	5 times
+	...and found f2dd2c64554cab27eaa5dad917f4dbd5	5 times

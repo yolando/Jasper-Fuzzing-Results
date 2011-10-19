@@ -1,0 +1,14 @@
+Getting STDERR for 2131e73cdd68d61567bebcec0028d05e
+Valgrind for 2131e73cdd68d61567bebcec0028d05e
+Minimizing from /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.62710
+bitwise_hd=3
+bytewise_hd=3
+seen at seed=62710 range=0.0157041:0.0254098 file=/home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.62710 file_md5=ec18978c823ff8a5afd84369a1cddacf
+Command: cat /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc | zzuf -s62710 -r0.0157041:0.0254098 > /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.62710
+EIP=0x807184e
+seen at seed=120591 range=0.0157041:0.0254098 file=/home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.120591 file_md5=19a0c4bdbc4d1441d3070956fad3c0e3
+Command: cat /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc | zzuf -s120591 -r0.0157041:0.0254098 > /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.120591
+EIP=0x807184e
+seen at seed=365744 range=0.0157041:0.0254098 file=/home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.365744 file_md5=c721e583651b6027d54597cec9eb617d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc | zzuf -s365744 -r0.0157041:0.0254098 > /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.365744
+EIP=0x807184e

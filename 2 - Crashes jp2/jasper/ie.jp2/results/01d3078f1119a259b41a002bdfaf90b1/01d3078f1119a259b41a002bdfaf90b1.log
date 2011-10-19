@@ -1,0 +1,11 @@
+Getting STDERR for 01d3078f1119a259b41a002bdfaf90b1
+Valgrind for 01d3078f1119a259b41a002bdfaf90b1
+Minimizing from /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.486507
+bitwise_hd=2
+bytewise_hd=2
+seen at seed=486507 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.486507 file_md5=7209ed867f7cbd2aedf33c1b5c179e1d
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s486507 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.486507
+EIP=0xb7eb59ac
+seen at seed=521143 range=0.000847067:0.00137058 file=/home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.521143 file_md5=c74ea606c13f978931607c1d760b17dc
+Command: cat /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2 | zzuf -s521143 -r0.000847067:0.00137058 > /home/fuzz/fuzzing/jasper/ie.jp2/ie.jp2.521143
+EIP=0xb7eb59ac

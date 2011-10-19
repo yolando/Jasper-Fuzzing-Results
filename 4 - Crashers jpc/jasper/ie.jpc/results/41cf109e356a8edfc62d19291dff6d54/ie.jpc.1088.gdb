@@ -1,0 +1,181 @@
+
+Program received signal SIGSEGV, Segmentation fault.
+0xb7eb466a in malloc_consolidate (av=<value optimized out>) at malloc.c:5145
+	in malloc.c
+#0  0xb7eb466a in malloc_consolidate (av=<value optimized out>)
+    at malloc.c:5145
+        fb = 0xb7f8d3b0
+        maxfb = 0xb7f8d3cc
+        p = 0x80b0570
+        nextp = 0xb000
+        unsorted_bin = 0xb7f8d3d0
+        first_unsorted = <value optimized out>
+        nextchunk = 0x80b6d70
+        size = 26624
+        nextsize = 0
+        prevsize = <value optimized out>
+        bck = 0x3000
+        fwd = 0x2800
+        __func__ = "malloc_consolidate"
+#1  0xb7eb5af5 in _int_free (av=<value optimized out>, p=0x817c908)
+    at malloc.c:5018
+        size = 79608
+        nextchunk = 0x6800
+        nextsize = 59024
+        prevsize = <value optimized out>
+        bck = <value optimized out>
+        fwd = 0x2800
+        errstr = <value optimized out>
+        __func__ = "_int_free"
+#2  0xb7eb8c5d in *__GI___libc_free (mem=0x817f930) at malloc.c:3739
+        ar_ptr = 0xb7f8d3a0
+        p = 0x2800
+#3  0x08086134 in jas_free (ptr=0x817f930) at jas_malloc.c:111
+No locals.
+#4  0x080731c6 in jpc_qcx_destroycompparms (compparms=0x80af4f0)
+    at jpc_cs.c:954
+No locals.
+#5  0x08072f4e in jpc_qcc_destroyparms (ms=0x80af4e0) at jpc_cs.c:891
+        qcc = 0x80af4ec
+#6  0x08071864 in jpc_ms_destroy (ms=0x80af4e0) at jpc_cs.c:397
+No locals.
+#7  0x08076587 in jpc_dec_decode (dec=0x80af470) at jpc_dec.c:397
+        ms = 0x80af4e0
+        mstabent = 0x80a0b4c
+        ret = 0
+        cstate = 0x80af460
+        __PRETTY_FUNCTION__ = "jpc_dec_decode"
+#8  0x08076280 in jpc_decode (in=0x80ab308, optstr=0x0) at jpc_dec.c:254
+        opts = {debug = 0, maxlyrs = 16384, maxpkts = -1}
+        dec = 0x80af470
+        image = 0x0
+#9  0x0804ad04 in jas_image_decode (in=0x80ab308, fmt=5, optstr=0x0)
+    at jas_image.c:372
+        fmtinfo = 0x80a25c4
+        image = 0x0
+#10 0x08049a8c in main (argc=7, argv=0xbffffcd4) at jasper.c:229
+        image = 0xb7f8bff4
+        cmdopts = 0x80a92d0
+        in = 0x80ab308
+        out = 0x80ad390
+        dectmr = {start = {tv_sec = 1317832081, tv_usec = 274648}, stop = {
+            tv_sec = -1208434700, tv_usec = 7}}
+        enctmr = {start = {tv_sec = -1207961352, tv_usec = -1208434700}, 
+          stop = {tv_sec = -1208695383, tv_usec = -1209564251}}
+        dectime = 6.152783780600825e-270
+        enctime = -4.5458254427160528e-39
+        numcmpts = 134517192
+        i = -1209563739
+Dump of assembler code from 0xb7eb464a to 0xb7eb468a:
+0xb7eb464a <malloc_consolidate+266>:	in     $0x8b,%al
+0xb7eb464c <malloc_consolidate+268>:	push   %edi
+0xb7eb464d <malloc_consolidate+269>:	add    $0x83,%al
+0xb7eb464f <malloc_consolidate+271>:	loop   0xb7eb4649 <malloc_consolidate+265>
+0xb7eb4651 <malloc_consolidate+273>:	test   $0x1,%al
+0xb7eb4653 <malloc_consolidate+275>:	mov    %edx,-0x10(%ebp)
+0xb7eb4656 <malloc_consolidate+278>:	jne    0xb7eb4699 <malloc_consolidate+345>
+0xb7eb4658 <malloc_consolidate+280>:	mov    (%esi),%eax
+0xb7eb465a <malloc_consolidate+282>:	sub    %eax,%esi
+0xb7eb465c <malloc_consolidate+284>:	add    %eax,%ecx
+0xb7eb465e <malloc_consolidate+286>:	mov    0x8(%esi),%eax
+0xb7eb4661 <malloc_consolidate+289>:	mov    %eax,-0x18(%ebp)
+0xb7eb4664 <malloc_consolidate+292>:	mov    -0x18(%ebp),%edx
+0xb7eb4667 <malloc_consolidate+295>:	mov    0xc(%esi),%eax
+0xb7eb466a <malloc_consolidate+298>:	cmp    0xc(%edx),%esi
+0xb7eb466d <malloc_consolidate+301>:	jne    0xb7eb474a <malloc_consolidate+522>
+0xb7eb4673 <malloc_consolidate+307>:	cmp    0x8(%eax),%esi
+0xb7eb4676 <malloc_consolidate+310>:	jne    0xb7eb474a <malloc_consolidate+522>
+0xb7eb467c <malloc_consolidate+316>:	mov    -0x18(%ebp),%edx
+0xb7eb467f <malloc_consolidate+319>:	cmpl   $0x1ff,0x4(%esi)
+0xb7eb4686 <malloc_consolidate+326>:	mov    %eax,0xc(%edx)
+0xb7eb4689 <malloc_consolidate+329>:	mov    %edx,0x8(%eax)
+End of assembler dump.
+eax            0x3000	12288
+ecx            0x6800	26624
+edx            0x2800	10240
+ebx            0xb7f8bff4	-1208434700
+esp            0xbffff9c0	0xbffff9c0
+ebp            0xbffffa04	0xbffffa04
+esi            0x80b0570	134940016
+edi            0x80b6d70	134966640
+eip            0xb7eb466a	0xb7eb466a <malloc_consolidate+298>
+eflags         0x10206	[ PF IF RF ]
+cs             0x73	115
+ss             0x7b	123
+ds             0x7b	123
+es             0x7b	123
+fs             0x0	0
+gs             0x33	51
+st0            0	(raw 0x00000000000000000000)
+st1            0	(raw 0x00000000000000000000)
+st2            0	(raw 0x00000000000000000000)
+st3            0	(raw 0x00000000000000000000)
+st4            0	(raw 0x00000000000000000000)
+st5            0	(raw 0x00000000000000000000)
+st6            8192	(raw 0x400c8000000000000000)
+st7            7936	(raw 0x400bf800000000000000)
+fctrl          0x37f	895
+fstat          0x20	32
+ftag           0xffff	65535
+fiseg          0x0	0
+fioff          0x80758fb	134699259
+foseg          0x0	0
+fooff          0xbffffb04	-1073743100
+fop            0x0	0
+xmm0           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0, 0x0, 0x0, 0xff, 0x0, 0x0, 0x0, 0x0, 0x0, 0xff, 0xff, 0xff, 
+    0x0, 0x0, 0x0, 0x0}, v8_int16 = {0x0, 0xff00, 0x0, 0x0, 0xff00, 0xffff, 
+    0x0, 0x0}, v4_int32 = {0xff000000, 0x0, 0xffffff00, 0x0}, v2_int64 = {
+    0xff000000, 0xffffff00}, uint128 = 0x00000000ffffff0000000000ff000000}
+xmm1           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm2           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm3           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm4           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm5           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm6           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+xmm7           {v4_float = {0x0, 0x0, 0x0, 0x0}, v2_double = {0x0, 0x0}, 
+  v16_int8 = {0x0 <repeats 16 times>}, v8_int16 = {0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x0, 0x0}, v4_int32 = {0x0, 0x0, 0x0, 0x0}, v2_int64 = {0x0, 0x0}, 
+  uint128 = 0x00000000000000000000000000000000}
+mxcsr          0x1f80	[ IM DM ZM OM UM PM ]
+mm0            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm1            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm2            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm3            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm4            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm5            {uint64 = 0x0, v2_int32 = {0x0, 0x0}, v4_int16 = {0x0, 0x0, 
+    0x0, 0x0}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}}
+mm6            {uint64 = 0x8000000000000000, v2_int32 = {0x0, 0x80000000}, 
+  v4_int16 = {0x0, 0x0, 0x0, 0x8000}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0x80}}
+mm7            {uint64 = 0xf800000000000000, v2_int32 = {0x0, 0xf8000000}, 
+  v4_int16 = {0x0, 0x0, 0x0, 0xf800}, v8_int8 = {0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 
+    0x0, 0xf8}}
+A debugging session is active.
+
+	Inferior 1 [process 3777] will be killed.
+
+Quit anyway? (y or n) [answered Y; input not from terminal]

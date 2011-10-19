@@ -1,0 +1,80 @@
+==20232== Memcheck, a memory error detector
+==20232== Copyright (C) 2002-2009, and GNU GPL'd, by Julian Seward et al.
+==20232== Using Valgrind-3.5.0-Debian and LibVEX; rerun with -h for copyright info
+==20232== Command: /usr/local/bin/jasper -f /home/fuzz/fuzzing/jasper/ie.jpc/ie.jpc.238240 -F\ /dev/null\ -T\ bmp
+==20232== Parent PID: 1319
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x4016481: strlen (strlen.S:110)
+==20232==    by 0x4007C04: _dl_init_paths (dl-load.c:776)
+==20232==    by 0x4002A2C: dl_main (rtld.c:1393)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x401648C: strlen (strlen.S:115)
+==20232==    by 0x4007C04: _dl_init_paths (dl-load.c:776)
+==20232==    by 0x4002A2C: dl_main (rtld.c:1393)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x400B217: _dl_relocate_object (do-rel.h:104)
+==20232==    by 0x40031D0: dl_main (rtld.c:2234)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x400AF0F: _dl_relocate_object (do-rel.h:117)
+==20232==    by 0x40031D0: dl_main (rtld.c:2234)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x400B27A: _dl_relocate_object (do-rel.h:127)
+==20232==    by 0x40031D0: dl_main (rtld.c:2234)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x400A5DE: _dl_relocate_object (do-rel.h:65)
+==20232==    by 0x40030FE: dl_main (rtld.c:2297)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x400A5E6: _dl_relocate_object (do-rel.h:68)
+==20232==    by 0x40030FE: dl_main (rtld.c:2297)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== Conditional jump or move depends on uninitialised value(s)
+==20232==    at 0x400AF0F: _dl_relocate_object (do-rel.h:117)
+==20232==    by 0x40030FE: dl_main (rtld.c:2297)
+==20232==    by 0x40141E6: _dl_sysdep_start (dl-sysdep.c:243)
+==20232==    by 0x4000C6C: _dl_start (rtld.c:338)
+==20232==    by 0x4000856: ??? (in /lib/ld-2.11.2.so)
+==20232== 
+==20232== 
+==20232== HEAP SUMMARY:
+==20232==     in use at exit: 8,244 bytes in 1 blocks
+==20232==   total heap usage: 31 allocs, 30 frees, 8,627 bytes allocated
+==20232== 
+==20232== LEAK SUMMARY:
+==20232==    definitely lost: 0 bytes in 0 blocks
+==20232==    indirectly lost: 0 bytes in 0 blocks
+==20232==      possibly lost: 0 bytes in 0 blocks
+==20232==    still reachable: 8,244 bytes in 1 blocks
+==20232==         suppressed: 0 bytes in 0 blocks
+==20232== Rerun with --leak-check=full to see details of leaked memory
+==20232== 
+==20232== For counts of detected and suppressed errors, rerun with: -v
+==20232== Use --track-origins=yes to see where uninitialised values come from
+==20232== ERROR SUMMARY: 19 errors from 8 contexts (suppressed: 0 from 0)
